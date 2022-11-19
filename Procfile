@@ -1,1 +1,1 @@
-web: node ./routes/covid.js
+web: node ./devStart
