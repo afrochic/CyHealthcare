@@ -1,0 +1,5812 @@
+{
+    "response": [
+        {
+          "continent": "Africa",
+          "country": "Eritrea",
+          "population": 3662244,
+          "cases": {
+            "new": null,
+            "active": 0,
+            "critical": null,
+            "recovered": 10086,
+            "1M_pop": "2782",
+            "total": 10189
+          },
+          "deaths": {
+            "new": null,
+            "1M_pop": "28",
+            "total": 103
+          },
+          "tests": {
+            "1M_pop": "6470",
+            "total": 23693
+          },
+          "day": "2022-11-19",
+          "time": "2022-11-19T08:30:09+00:00"
+        },
+        {
+          "continent": "North-America",
+          "country": "Caribbean-Netherlands",
+          "population": 26647,
+          "cases": {
+            "new": "+24",
+            "active": 890,
+            "critical": null,
+            "recovered": 10476,
+            "1M_pop": "427891",
+            "total": 11402
+          },
+          "deaths": {
+            "new": null,
+            "1M_pop": "1351",
+            "total": 36
+          },
+          "tests": {
+            "1M_pop": "1130559",
+            "total": 30126
+          },
+          "day": "2022-11-19",
+          "time": "2022-11-19T08:30:09+00:00"
+        },
+        {
+          "continent": "Africa",
+          "country": "Comoros",
+          "population": 907419,
+          "cases": {
+            "new": "+16",
+            "active": 29,
+            "critical": null,
+            "recovered": 8751,
+            "1M_pop": "9853",
+            "total": 8941
+          },
+          "deaths": {
+            "new": null,
+            "1M_pop": "177",
+            "total": 161
+          },
+          "tests": {
+            "1M_pop": null,
+            "total": null
+          },
+          "day": "2022-11-19",
+          "time": "2022-11-19T08:30:09+00:00"
+        },
+        {
+          "continent": "Oceania",
+          "country": "Palau",
+          "population": 18233,
+          "cases": {
+            "new": "+112",
+            "active": 101,
+            "critical": 1,
+            "recovered": 5576,
+            "1M_pop": "311742",
+            "total": 5684
+          },
+          "deaths": {
+            "new": null,
+            "1M_pop": "384",
+            "total": 7
+          },
+          "tests": {
+            "1M_pop": "3653431",
+            "total": 66613
+          },
+          "day": "2022-11-19",
+          "time": "2022-11-19T08:30:09+00:00"
+        },
+        {
+          "continent": "Asia",
+          "country": "China",
+          "population": 1448471400,
+          "cases": {
+            "new": "+2137",
+            "active": 19709,
+            "critical": 87,
+            "recovered": 258995,
+            "1M_pop": "196",
+            "total": 283930
+          },
+          "deaths": {
+            "new": null,
+            "1M_pop": "4",
+            "total": 5226
+          },
+          "tests": {
+            "1M_pop": "110461",
+            "total": 160000000
+          },
+          "day": "2022-11-19",
+          "time": "2022-11-19T08:30:09+00:00"
+        },
+        {
+          "continent": "Africa",
+          "country": "Equatorial-Guinea",
+          "population": 1496662,
+          "cases": {
+            "new": null,
+            "active": 126,
+            "critical": 5,
+            "recovered": 16873,
+            "1M_pop": "11480",
+            "total": 17182
+          },
+          "deaths": {
+            "new": null,
+            "1M_pop": "122",
+            "total": 183
+          },
+          "tests": {
+            "1M_pop": "244342",
+            "total": 365697
+          },
+          "day": "2022-11-19",
+          "time": "2022-11-19T08:30:09+00:00"
+        },
+        {
+          "continent": "Asia",
+          "country": "Macao",
+          "population": 667490,
+          "cases": {
+            "new": null,
+            "active": 0,
+            "critical": null,
+            "recovered": 789,
+            "1M_pop": "1191",
+            "total": 795
+          },
+          "deaths": {
+            "new": null,
+            "1M_pop": "9",
+            "total": 6
+          },
+          "tests": {
+            "1M_pop": "11760",
+            "total": 7850
+          },
+          "day": "2022-11-19",
+          "time": "2022-11-19T08:30:09+00:00"
+        },
+        {
+          "continent": "Africa",
+          "country": "Chad",
+          "population": 17413580,
+          "cases": {
+            "new": "+6",
+            "active": 2569,
+            "critical": null,
+            "recovered": 4874,
+            "1M_pop": "439",
+            "total": 7637
+          },
+          "deaths": {
+            "new": null,
+            "1M_pop": "11",
+            "total": 194
+          },
+          "tests": {
+            "1M_pop": "10988",
+            "total": 191341
+          },
+          "day": "2022-11-19",
+          "time": "2022-11-19T08:30:09+00:00"
+        },
+        {
+          "continent": "North-America",
+          "country": "Saint-Martin",
+          "population": 39730,
+          "cases": {
+            "new": "+8",
+            "active": 10572,
+            "critical": 7,
+            "recovered": 1399,
+            "1M_pop": "302895",
+            "total": 12034
+          },
+          "deaths": {
+            "new": null,
+            "1M_pop": "1586",
+            "total": 63
+          },
+          "tests": {
+            "1M_pop": "2828643",
+            "total": 112382
+          },
+          "day": "2022-11-19",
+          "time": "2022-11-19T08:30:09+00:00"
+        },
+        {
+          "continent": "Africa",
+          "country": "Liberia",
+          "population": 5305117,
+          "cases": {
+            "new": "+16",
+            "active": 15,
+            "critical": 2,
+            "recovered": 7705,
+            "1M_pop": "1511",
+            "total": 8014
+          },
+          "deaths": {
+            "new": null,
+            "1M_pop": "55",
+            "total": 294
+          },
+          "tests": {
+            "1M_pop": "26356",
+            "total": 139824
+          },
+          "day": "2022-11-19",
+          "time": "2022-11-19T08:30:09+00:00"
+        },
+        {
+          "continent": "North-America",
+          "country": "St-Barth",
+          "population": 9945,
+          "cases": {
+            "new": "+13",
+            "active": null,
+            "critical": null,
+            "recovered": null,
+            "1M_pop": "536551",
+            "total": 5336
+          },
+          "deaths": {
+            "new": null,
+            "1M_pop": "603",
+            "total": 6
+          },
+          "tests": {
+            "1M_pop": "7908095",
+            "total": 78646
+          },
+          "day": "2022-11-19",
+          "time": "2022-11-19T08:30:09+00:00"
+        },
+        {
+          "continent": "Oceania",
+          "country": "Tuvalu",
+          "population": 12066,
+          "cases": {
+            "new": null,
+            "active": 2019,
+            "critical": null,
+            "recovered": null,
+            "1M_pop": "167330",
+            "total": 2019
+          },
+          "deaths": {
+            "new": null,
+            "1M_pop": null,
+            "total": null
+          },
+          "tests": {
+            "1M_pop": null,
+            "total": null
+          },
+          "day": "2022-11-19",
+          "time": "2022-11-19T08:30:09+00:00"
+        },
+        {
+          "continent": "Oceania",
+          "country": "Niue",
+          "population": 1622,
+          "cases": {
+            "new": "+4",
+            "active": 12,
+            "critical": null,
+            "recovered": 85,
+            "1M_pop": "59803",
+            "total": 97
+          },
+          "deaths": {
+            "new": null,
+            "1M_pop": null,
+            "total": null
+          },
+          "tests": {
+            "1M_pop": null,
+            "total": null
+          },
+          "day": "2022-11-19",
+          "time": "2022-11-19T08:30:09+00:00"
+        },
+        {
+          "continent": "North-America",
+          "country": "Saint-Kitts-and-Nevis",
+          "population": 53871,
+          "cases": {
+            "new": null,
+            "active": 24,
+            "critical": null,
+            "recovered": 6482,
+            "1M_pop": "121624",
+            "total": 6552
+          },
+          "deaths": {
+            "new": null,
+            "1M_pop": "854",
+            "total": 46
+          },
+          "tests": {
+            "1M_pop": "2317778",
+            "total": 124861
+          },
+          "day": "2022-11-19",
+          "time": "2022-11-19T08:30:09+00:00"
+        },
+        {
+          "continent": null,
+          "country": "Diamond-Princess",
+          "population": null,
+          "cases": {
+            "new": null,
+            "active": 0,
+            "critical": null,
+            "recovered": 699,
+            "1M_pop": null,
+            "total": 712
+          },
+          "deaths": {
+            "new": null,
+            "1M_pop": null,
+            "total": 13
+          },
+          "tests": {
+            "1M_pop": null,
+            "total": null
+          },
+          "day": "2022-11-19",
+          "time": "2022-11-19T08:30:09+00:00"
+        },
+        {
+          "continent": null,
+          "country": "MS-Zaandam",
+          "population": null,
+          "cases": {
+            "new": null,
+            "active": 0,
+            "critical": null,
+            "recovered": 7,
+            "1M_pop": null,
+            "total": 9
+          },
+          "deaths": {
+            "new": null,
+            "1M_pop": null,
+            "total": 2
+          },
+          "tests": {
+            "1M_pop": null,
+            "total": null
+          },
+          "day": "2022-11-19",
+          "time": "2022-11-19T08:30:09+00:00"
+        },
+        {
+          "continent": "Oceania",
+          "country": "Tonga",
+          "population": 107749,
+          "cases": {
+            "new": null,
+            "active": 532,
+            "critical": null,
+            "recovered": 15638,
+            "1M_pop": "150182",
+            "total": 16182
+          },
+          "deaths": {
+            "new": null,
+            "1M_pop": "111",
+            "total": 12
+          },
+          "tests": {
+            "1M_pop": "4965327",
+            "total": 535009
+          },
+          "day": "2022-11-19",
+          "time": "2022-11-19T08:30:09+00:00"
+        },
+        {
+          "continent": "Oceania",
+          "country": "Samoa",
+          "population": 202239,
+          "cases": {
+            "new": null,
+            "active": 14312,
+            "critical": 4,
+            "recovered": 1605,
+            "1M_pop": "78847",
+            "total": 15946
+          },
+          "deaths": {
+            "new": null,
+            "1M_pop": "143",
+            "total": 29
+          },
+          "tests": {
+            "1M_pop": "926612",
+            "total": 187397
+          },
+          "day": "2022-11-19",
+          "time": "2022-11-19T08:30:09+00:00"
+        },
+        {
+          "continent": "Oceania",
+          "country": "Nauru",
+          "population": 10903,
+          "cases": {
+            "new": null,
+            "active": 8,
+            "critical": null,
+            "recovered": 4609,
+            "1M_pop": "423553",
+            "total": 4618
+          },
+          "deaths": {
+            "new": null,
+            "1M_pop": "92",
+            "total": 1
+          },
+          "tests": {
+            "1M_pop": "1881042",
+            "total": 20509
+          },
+          "day": "2022-11-19",
+          "time": "2022-11-19T08:30:09+00:00"
+        },
+        {
+          "continent": "North-America",
+          "country": "Dominica",
+          "population": 72344,
+          "cases": {
+            "new": null,
+            "active": 13,
+            "critical": null,
+            "recovered": 15673,
+            "1M_pop": "217848",
+            "total": 15760
+          },
+          "deaths": {
+            "new": null,
+            "1M_pop": "1023",
+            "total": 74
+          },
+          "tests": {
+            "1M_pop": "3170187",
+            "total": 229344
+          },
+          "day": "2022-11-19",
+          "time": "2022-11-19T08:30:09+00:00"
+        },
+        {
+          "continent": "Africa",
+          "country": "Djibouti",
+          "population": 1016097,
+          "cases": {
+            "new": null,
+            "active": 74,
+            "critical": null,
+            "recovered": 15427,
+            "1M_pop": "15441",
+            "total": 15690
+          },
+          "deaths": {
+            "new": null,
+            "1M_pop": "186",
+            "total": 189
+          },
+          "tests": {
+            "1M_pop": "301094",
+            "total": 305941
+          },
+          "day": "2022-11-19",
+          "time": "2022-11-19T08:30:09+00:00"
+        },
+        {
+          "continent": "Oceania",
+          "country": "Marshall-Islands",
+          "population": 60057,
+          "cases": {
+            "new": null,
+            "active": 14,
+            "critical": 22,
+            "recovered": 15358,
+            "1M_pop": "256240",
+            "total": 15389
+          },
+          "deaths": {
+            "new": null,
+            "1M_pop": "283",
+            "total": 17
+          },
+          "tests": {
+            "1M_pop": null,
+            "total": null
+          },
+          "day": "2022-11-19",
+          "time": "2022-11-19T08:30:09+00:00"
+        },
+        {
+          "continent": "Europe",
+          "country": "Monaco",
+          "population": 39783,
+          "cases": {
+            "new": "+30",
+            "active": 73,
+            "critical": 4,
+            "recovered": 15059,
+            "1M_pop": "381947",
+            "total": 15195
+          },
+          "deaths": {
+            "new": null,
+            "1M_pop": "1584",
+            "total": 63
+          },
+          "tests": {
+            "1M_pop": "1976875",
+            "total": 78646
+          },
+          "day": "2022-11-19",
+          "time": "2022-11-19T08:30:09+00:00"
+        },
+        {
+          "continent": "Africa",
+          "country": "CAR",
+          "population": 5016678,
+          "cases": {
+            "new": "+29",
+            "active": 561,
+            "critical": 2,
+            "recovered": 14615,
+            "1M_pop": "3048",
+            "total": 15289
+          },
+          "deaths": {
+            "new": null,
+            "1M_pop": "23",
+            "total": 113
+          },
+          "tests": {
+            "1M_pop": "16205",
+            "total": 81294
+          },
+          "day": "2022-11-19",
+          "time": "2022-11-19T08:30:09+00:00"
+        },
+        {
+          "continent": "Africa",
+          "country": "Gambia",
+          "population": 2558482,
+          "cases": {
+            "new": null,
+            "active": 34,
+            "critical": null,
+            "recovered": 12174,
+            "1M_pop": "4917",
+            "total": 12580
+          },
+          "deaths": {
+            "new": null,
+            "1M_pop": "145",
+            "total": 372
+          },
+          "tests": {
+            "1M_pop": "60851",
+            "total": 155686
+          },
+          "day": "2022-11-19",
+          "time": "2022-11-19T08:30:09+00:00"
+        },
+        {
+          "continent": "North-America",
+          "country": "Greenland",
+          "population": 56973,
+          "cases": {
+            "new": null,
+            "active": 9189,
+            "critical": 4,
+            "recovered": 2761,
+            "1M_pop": "210117",
+            "total": 11971
+          },
+          "deaths": {
+            "new": null,
+            "1M_pop": "369",
+            "total": 21
+          },
+          "tests": {
+            "1M_pop": "2894810",
+            "total": 164926
+          },
+          "day": "2022-11-19",
+          "time": "2022-11-19T08:30:09+00:00"
+        },
+        {
+          "continent": "Oceania",
+          "country": "Vanuatu",
+          "population": 321832,
+          "cases": {
+            "new": null,
+            "active": 1,
+            "critical": null,
+            "recovered": 11937,
+            "1M_pop": "37137",
+            "total": 11952
+          },
+          "deaths": {
+            "new": null,
+            "1M_pop": "44",
+            "total": 14
+          },
+          "tests": {
+            "1M_pop": "77606",
+            "total": 24976
+          },
+          "day": "2022-11-19",
+          "time": "2022-11-19T08:30:09+00:00"
+        },
+        {
+          "continent": "Asia",
+          "country": "Yemen",
+          "population": 31154867,
+          "cases": {
+            "new": null,
+            "active": 662,
+            "critical": 23,
+            "recovered": 9124,
+            "1M_pop": "383",
+            "total": 11945
+          },
+          "deaths": {
+            "new": null,
+            "1M_pop": "69",
+            "total": 2159
+          },
+          "tests": {
+            "1M_pop": "10579",
+            "total": 329592
+          },
+          "day": "2022-11-19",
+          "time": "2022-11-19T08:30:09+00:00"
+        },
+        {
+          "continent": "North-America",
+          "country": "Sint-Maarten",
+          "population": 43966,
+          "cases": {
+            "new": null,
+            "active": 9,
+            "critical": null,
+            "recovered": 10833,
+            "1M_pop": "248624",
+            "total": 10931
+          },
+          "deaths": {
+            "new": null,
+            "1M_pop": "2024",
+            "total": 89
+          },
+          "tests": {
+            "1M_pop": "1411454",
+            "total": 62056
+          },
+          "day": "2022-11-19",
+          "time": "2022-11-19T08:30:09+00:00"
+        },
+        {
+          "continent": "Africa",
+          "country": "Niger",
+          "population": 26083660,
+          "cases": {
+            "new": null,
+            "active": 729,
+            "critical": 1,
+            "recovered": 8890,
+            "1M_pop": "381",
+            "total": 9931
+          },
+          "deaths": {
+            "new": null,
+            "1M_pop": "12",
+            "total": 312
+          },
+          "tests": {
+            "1M_pop": "9759",
+            "total": 254538
+          },
+          "day": "2022-11-19",
+          "time": "2022-11-19T08:30:09+00:00"
+        },
+        {
+          "continent": "North-America",
+          "country": "Antigua-and-Barbuda",
+          "population": 99509,
+          "cases": {
+            "new": null,
+            "active": 6,
+            "critical": 1,
+            "recovered": 8954,
+            "1M_pop": "91509",
+            "total": 9106
+          },
+          "deaths": {
+            "new": null,
+            "1M_pop": "1467",
+            "total": 146
+          },
+          "tests": {
+            "1M_pop": "189943",
+            "total": 18901
+          },
+          "day": "2022-11-19",
+          "time": "2022-11-19T08:30:09+00:00"
+        },
+        {
+          "continent": "Africa",
+          "country": "Guinea-Bissau",
+          "population": 2063367,
+          "cases": {
+            "new": null,
+            "active": 30,
+            "critical": 6,
+            "recovered": 8642,
+            "1M_pop": "4288",
+            "total": 8848
+          },
+          "deaths": {
+            "new": null,
+            "1M_pop": "85",
+            "total": 176
+          },
+          "tests": {
+            "1M_pop": "70385",
+            "total": 145231
+          },
+          "day": "2022-11-19",
+          "time": "2022-11-19T08:30:09+00:00"
+        },
+        {
+          "continent": "North-America",
+          "country": "British-Virgin-Islands",
+          "population": 30596,
+          "cases": {
+            "new": null,
+            "active": null,
+            "critical": null,
+            "recovered": null,
+            "1M_pop": "238757",
+            "total": 7305
+          },
+          "deaths": {
+            "new": null,
+            "1M_pop": "2092",
+            "total": 64
+          },
+          "tests": {
+            "1M_pop": "3508269",
+            "total": 107339
+          },
+          "day": "2022-11-19",
+          "time": "2022-11-19T08:30:09+00:00"
+        },
+        {
+          "continent": "Africa",
+          "country": "Saint-Helena",
+          "population": 6115,
+          "cases": {
+            "new": "+3",
+            "active": 1801,
+            "critical": null,
+            "recovered": 2,
+            "1M_pop": "294849",
+            "total": 1803
+          },
+          "deaths": {
+            "new": null,
+            "1M_pop": null,
+            "total": null
+          },
+          "tests": {
+            "1M_pop": null,
+            "total": null
+          },
+          "day": "2022-11-19",
+          "time": "2022-11-19T08:30:09+00:00"
+        },
+        {
+          "continent": "North-America",
+          "country": "St-Vincent-Grenadines",
+          "population": 111551,
+          "cases": {
+            "new": null,
+            "active": 356,
+            "critical": null,
+            "recovered": 6641,
+            "1M_pop": "63756",
+            "total": 7112
+          },
+          "deaths": {
+            "new": null,
+            "1M_pop": "1031",
+            "total": 115
+          },
+          "tests": {
+            "1M_pop": "904125",
+            "total": 100856
+          },
+          "day": "2022-11-19",
+          "time": "2022-11-19T08:30:09+00:00"
+        },
+        {
+          "continent": "North-America",
+          "country": "Turks-and-Caicos",
+          "population": 39741,
+          "cases": {
+            "new": null,
+            "active": 31,
+            "critical": 4,
+            "recovered": 6364,
+            "1M_pop": "161823",
+            "total": 6431
+          },
+          "deaths": {
+            "new": null,
+            "1M_pop": "906",
+            "total": 36
+          },
+          "tests": {
+            "1M_pop": "13844720",
+            "total": 550203
+          },
+          "day": "2022-11-19",
+          "time": "2022-11-19T08:30:09+00:00"
+        },
+        {
+          "continent": "Oceania",
+          "country": "Cook-Islands",
+          "population": 17571,
+          "cases": {
+            "new": null,
+            "active": 4,
+            "critical": null,
+            "recovered": 6384,
+            "1M_pop": "363610",
+            "total": 6389
+          },
+          "deaths": {
+            "new": null,
+            "1M_pop": "57",
+            "total": 1
+          },
+          "tests": {
+            "1M_pop": "1120596",
+            "total": 19690
+          },
+          "day": "2022-11-19",
+          "time": "2022-11-19T08:30:09+00:00"
+        },
+        {
+          "continent": "Africa",
+          "country": "Sierra-Leone",
+          "population": 8306436,
+          "cases": {
+            "new": "+4",
+            "active": null,
+            "critical": null,
+            "recovered": null,
+            "1M_pop": "934",
+            "total": 7758
+          },
+          "deaths": {
+            "new": null,
+            "1M_pop": "15",
+            "total": 126
+          },
+          "tests": {
+            "1M_pop": "31296",
+            "total": 259958
+          },
+          "day": "2022-11-19",
+          "time": "2022-11-19T08:30:09+00:00"
+        },
+        {
+          "continent": "Oceania",
+          "country": "Kiribati",
+          "population": 123419,
+          "cases": {
+            "new": null,
+            "active": 714,
+            "critical": 3,
+            "recovered": 2703,
+            "1M_pop": "27792",
+            "total": 3430
+          },
+          "deaths": {
+            "new": null,
+            "1M_pop": "105",
+            "total": 13
+          },
+          "tests": {
+            "1M_pop": null,
+            "total": null
+          },
+          "day": "2022-11-19",
+          "time": "2022-11-19T08:30:09+00:00"
+        },
+        {
+          "continent": "North-America",
+          "country": "Saint-Pierre-Miquelon",
+          "population": 5759,
+          "cases": {
+            "new": null,
+            "active": 781,
+            "critical": 1,
+            "recovered": 2449,
+            "1M_pop": "561035",
+            "total": 3231
+          },
+          "deaths": {
+            "new": null,
+            "1M_pop": "174",
+            "total": 1
+          },
+          "tests": {
+            "1M_pop": "4361868",
+            "total": 25120
+          },
+          "day": "2022-11-19",
+          "time": "2022-11-19T08:30:09+00:00"
+        },
+        {
+          "continent": "South-America",
+          "country": "Falkland-Islands",
+          "population": 3539,
+          "cases": {
+            "new": null,
+            "active": 0,
+            "critical": null,
+            "recovered": 1930,
+            "1M_pop": "545352",
+            "total": 1930
+          },
+          "deaths": {
+            "new": null,
+            "1M_pop": null,
+            "total": null
+          },
+          "tests": {
+            "1M_pop": "2439107",
+            "total": 8632
+          },
+          "day": "2022-11-19",
+          "time": "2022-11-19T08:30:09+00:00"
+        },
+        {
+          "continent": "North-America",
+          "country": "Montserrat",
+          "population": 4965,
+          "cases": {
+            "new": null,
+            "active": 19,
+            "critical": null,
+            "recovered": 1376,
+            "1M_pop": "282578",
+            "total": 1403
+          },
+          "deaths": {
+            "new": null,
+            "1M_pop": "1611",
+            "total": 8
+          },
+          "tests": {
+            "1M_pop": "3577442",
+            "total": 17762
+          },
+          "day": "2022-11-19",
+          "time": "2022-11-19T08:30:09+00:00"
+        },
+        {
+          "continent": "Africa",
+          "country": "Sao-Tome-and-Principe",
+          "population": 227679,
+          "cases": {
+            "new": "+5",
+            "active": 5,
+            "critical": null,
+            "recovered": 6193,
+            "1M_pop": "27561",
+            "total": 6275
+          },
+          "deaths": {
+            "new": null,
+            "1M_pop": "338",
+            "total": 77
+          },
+          "tests": {
+            "1M_pop": "127530",
+            "total": 29036
+          },
+          "day": "2022-11-19",
+          "time": "2022-11-19T08:30:09+00:00"
+        },
+        {
+          "continent": "Oceania",
+          "country": "Wallis-and-Futuna",
+          "population": 10982,
+          "cases": {
+            "new": null,
+            "active": 316,
+            "critical": null,
+            "recovered": 438,
+            "1M_pop": "69295",
+            "total": 761
+          },
+          "deaths": {
+            "new": null,
+            "1M_pop": "637",
+            "total": 7
+          },
+          "tests": {
+            "1M_pop": "1867419",
+            "total": 20508
+          },
+          "day": "2022-11-19",
+          "time": "2022-11-19T08:30:09+00:00"
+        },
+        {
+          "continent": "Europe",
+          "country": "Vatican-City",
+          "population": 799,
+          "cases": {
+            "new": null,
+            "active": 0,
+            "critical": null,
+            "recovered": 29,
+            "1M_pop": "36295",
+            "total": 29
+          },
+          "deaths": {
+            "new": null,
+            "1M_pop": null,
+            "total": null
+          },
+          "tests": {
+            "1M_pop": null,
+            "total": null
+          },
+          "day": "2022-11-19",
+          "time": "2022-11-19T08:30:09+00:00"
+        },
+        {
+          "continent": "North-America",
+          "country": "Anguilla",
+          "population": 15230,
+          "cases": {
+            "new": "+38",
+            "active": 13,
+            "critical": 4,
+            "recovered": 3879,
+            "1M_pop": "256336",
+            "total": 3904
+          },
+          "deaths": {
+            "new": null,
+            "1M_pop": "788",
+            "total": 12
+          },
+          "tests": {
+            "1M_pop": "3373736",
+            "total": 51382
+          },
+          "day": "2022-11-19",
+          "time": "2022-11-19T08:30:09+00:00"
+        },
+        {
+          "continent": "Africa",
+          "country": "Western-Sahara",
+          "population": 623634,
+          "cases": {
+            "new": null,
+            "active": 0,
+            "critical": null,
+            "recovered": 9,
+            "1M_pop": "16",
+            "total": 10
+          },
+          "deaths": {
+            "new": null,
+            "1M_pop": "2",
+            "total": 1
+          },
+          "tests": {
+            "1M_pop": null,
+            "total": null
+          },
+          "day": "2022-11-19",
+          "time": "2022-11-19T08:30:09+00:00"
+        },
+        {
+          "continent": "Europe",
+          "country": "Channel-Islands",
+          "population": 176463,
+          "cases": {
+            "new": "+272",
+            "active": 455,
+            "critical": null,
+            "recovered": 94593,
+            "1M_pop": "539802",
+            "total": 95255
+          },
+          "deaths": {
+            "new": "+1",
+            "1M_pop": "1173",
+            "total": 207
+          },
+          "tests": {
+            "1M_pop": "7099551",
+            "total": 1252808
+          },
+          "day": "2022-11-19",
+          "time": "2022-11-19T08:30:08+00:00"
+        },
+        {
+          "continent": "South-America",
+          "country": "French-Guiana",
+          "population": 314169,
+          "cases": {
+            "new": "+308",
+            "active": 83064,
+            "critical": 2,
+            "recovered": 11254,
+            "1M_pop": "301522",
+            "total": 94729
+          },
+          "deaths": {
+            "new": null,
+            "1M_pop": "1308",
+            "total": 411
+          },
+          "tests": {
+            "1M_pop": "2072951",
+            "total": 651257
+          },
+          "day": "2022-11-19",
+          "time": "2022-11-19T08:30:08+00:00"
+        },
+        {
+          "continent": "Africa",
+          "country": "Gabon",
+          "population": 2331533,
+          "cases": {
+            "new": "+13",
+            "active": 175,
+            "critical": null,
+            "recovered": 48491,
+            "1M_pop": "21004",
+            "total": 48972
+          },
+          "deaths": {
+            "new": null,
+            "1M_pop": "131",
+            "total": 306
+          },
+          "tests": {
+            "1M_pop": "695193",
+            "total": 1620866
+          },
+          "day": "2022-11-19",
+          "time": "2022-11-19T08:30:08+00:00"
+        },
+        {
+          "continent": "North-America",
+          "country": "Aruba",
+          "population": 107609,
+          "cases": {
+            "new": "+115",
+            "active": 821,
+            "critical": 2,
+            "recovered": 42438,
+            "1M_pop": "404186",
+            "total": 43494
+          },
+          "deaths": {
+            "new": "+2",
+            "1M_pop": "2184",
+            "total": 235
+          },
+          "tests": {
+            "1M_pop": "1653068",
+            "total": 177885
+          },
+          "day": "2022-11-19",
+          "time": "2022-11-19T08:30:08+00:00"
+        },
+        {
+          "continent": "North-America",
+          "country": "Bahamas",
+          "population": 400516,
+          "cases": {
+            "new": "+17",
+            "active": 283,
+            "critical": 1,
+            "recovered": 36337,
+            "1M_pop": "93512",
+            "total": 37453
+          },
+          "deaths": {
+            "new": null,
+            "1M_pop": "2080",
+            "total": 833
+          },
+          "tests": {
+            "1M_pop": "643767",
+            "total": 257839
+          },
+          "day": "2022-11-19",
+          "time": "2022-11-19T08:30:08+00:00"
+        },
+        {
+          "continent": "North-America",
+          "country": "Barbados",
+          "population": 288023,
+          "cases": {
+            "new": "+531",
+            "active": 546,
+            "critical": null,
+            "recovered": 102435,
+            "1M_pop": "359503",
+            "total": 103545
+          },
+          "deaths": {
+            "new": "+4",
+            "1M_pop": "1958",
+            "total": 564
+          },
+          "tests": {
+            "1M_pop": "2686921",
+            "total": 773895
+          },
+          "day": "2022-11-19",
+          "time": "2022-11-19T08:30:08+00:00"
+        },
+        {
+          "continent": "Asia",
+          "country": "Timor-Leste",
+          "population": 1369429,
+          "cases": {
+            "new": "+3",
+            "active": 83,
+            "critical": null,
+            "recovered": 23102,
+            "1M_pop": "17031",
+            "total": 23323
+          },
+          "deaths": {
+            "new": null,
+            "1M_pop": "101",
+            "total": 138
+          },
+          "tests": {
+            "1M_pop": "203391",
+            "total": 278529
+          },
+          "day": "2022-11-19",
+          "time": "2022-11-19T08:30:08+00:00"
+        },
+        {
+          "continent": "Africa",
+          "country": "Ivory-Coast",
+          "population": 27742298,
+          "cases": {
+            "new": "+4",
+            "active": 11,
+            "critical": null,
+            "recovered": 87024,
+            "1M_pop": "3167",
+            "total": 87864
+          },
+          "deaths": {
+            "new": null,
+            "1M_pop": "30",
+            "total": 829
+          },
+          "tests": {
+            "1M_pop": "59457",
+            "total": 1649487
+          },
+          "day": "2022-11-19",
+          "time": "2022-11-19T08:30:08+00:00"
+        },
+        {
+          "continent": "Europe",
+          "country": "Gibraltar",
+          "population": 33704,
+          "cases": {
+            "new": "+18",
+            "active": 3495,
+            "critical": null,
+            "recovered": 16579,
+            "1M_pop": "598861",
+            "total": 20184
+          },
+          "deaths": {
+            "new": null,
+            "1M_pop": "3264",
+            "total": 110
+          },
+          "tests": {
+            "1M_pop": "15852213",
+            "total": 534283
+          },
+          "day": "2022-11-19",
+          "time": "2022-11-19T08:30:08+00:00"
+        },
+        {
+          "continent": "Oceania",
+          "country": "Fiji",
+          "population": 909466,
+          "cases": {
+            "new": "+20",
+            "active": 1078,
+            "critical": null,
+            "recovered": 66351,
+            "1M_pop": "75107",
+            "total": 68307
+          },
+          "deaths": {
+            "new": null,
+            "1M_pop": "965",
+            "total": 878
+          },
+          "tests": {
+            "1M_pop": "731040",
+            "total": 664856
+          },
+          "day": "2022-11-19",
+          "time": "2022-11-19T08:30:08+00:00"
+        },
+        {
+          "continent": "Oceania",
+          "country": "Papua-New-Guinea",
+          "population": 9292169,
+          "cases": {
+            "new": "+46",
+            "active": 1169,
+            "critical": 7,
+            "recovered": 43982,
+            "1M_pop": "4931",
+            "total": 45819
+          },
+          "deaths": {
+            "new": null,
+            "1M_pop": "72",
+            "total": 668
+          },
+          "tests": {
+            "1M_pop": "26813",
+            "total": 249149
+          },
+          "day": "2022-11-19",
+          "time": "2022-11-19T08:30:08+00:00"
+        },
+        {
+          "continent": "North-America",
+          "country": "Cura&ccedil;ao",
+          "population": 165529,
+          "cases": {
+            "new": "+29",
+            "active": 522,
+            "critical": 3,
+            "recovered": 44720,
+            "1M_pop": "275094",
+            "total": 45536
+          },
+          "deaths": {
+            "new": "+1",
+            "1M_pop": "1776",
+            "total": 294
+          },
+          "tests": {
+            "1M_pop": "3000640",
+            "total": 496693
+          },
+          "day": "2022-11-19",
+          "time": "2022-11-19T08:30:08+00:00"
+        },
+        {
+          "continent": "Africa",
+          "country": "Mayotte",
+          "population": 286259,
+          "cases": {
+            "new": "+197",
+            "active": null,
+            "critical": null,
+            "recovered": null,
+            "1M_pop": "141872",
+            "total": 40612
+          },
+          "deaths": {
+            "new": null,
+            "1M_pop": "653",
+            "total": 187
+          },
+          "tests": {
+            "1M_pop": "618038",
+            "total": 176919
+          },
+          "day": "2022-11-19",
+          "time": "2022-11-19T08:30:08+00:00"
+        },
+        {
+          "continent": "Africa",
+          "country": "South-Sudan",
+          "population": 11618511,
+          "cases": {
+            "new": "+14",
+            "active": 86,
+            "critical": 1,
+            "recovered": 18115,
+            "1M_pop": "1578",
+            "total": 18339
+          },
+          "deaths": {
+            "new": null,
+            "1M_pop": "12",
+            "total": 138
+          },
+          "tests": {
+            "1M_pop": "35313",
+            "total": 410280
+          },
+          "day": "2022-11-19",
+          "time": "2022-11-19T08:30:08+00:00"
+        },
+        {
+          "continent": "North-America",
+          "country": "Haiti",
+          "population": 11680283,
+          "cases": {
+            "new": "+5",
+            "active": 162,
+            "critical": null,
+            "recovered": 32815,
+            "1M_pop": "2897",
+            "total": 33837
+          },
+          "deaths": {
+            "new": null,
+            "1M_pop": "74",
+            "total": 860
+          },
+          "tests": {
+            "1M_pop": "11337",
+            "total": 132422
+          },
+          "day": "2022-11-19",
+          "time": "2022-11-19T08:30:08+00:00"
+        },
+        {
+          "continent": "Africa",
+          "country": "DRC",
+          "population": 95240792,
+          "cases": {
+            "new": "+370",
+            "active": 8795,
+            "critical": null,
+            "recovered": 83590,
+            "1M_pop": "985",
+            "total": 93837
+          },
+          "deaths": {
+            "new": "+5",
+            "1M_pop": "15",
+            "total": 1452
+          },
+          "tests": {
+            "1M_pop": "8890",
+            "total": 846704
+          },
+          "day": "2022-11-19",
+          "time": "2022-11-19T08:30:08+00:00"
+        },
+        {
+          "continent": "Africa",
+          "country": "Congo",
+          "population": 5797805,
+          "cases": {
+            "new": "+301",
+            "active": 983,
+            "critical": null,
+            "recovered": 24006,
+            "1M_pop": "4377",
+            "total": 25375
+          },
+          "deaths": {
+            "new": null,
+            "1M_pop": "67",
+            "total": 386
+          },
+          "tests": {
+            "1M_pop": "59991",
+            "total": 347815
+          },
+          "day": "2022-11-19",
+          "time": "2022-11-19T08:30:08+00:00"
+        },
+        {
+          "continent": "Europe",
+          "country": "Andorra",
+          "population": 77463,
+          "cases": {
+            "new": "+160",
+            "active": 211,
+            "critical": 14,
+            "recovered": 46457,
+            "1M_pop": "604469",
+            "total": 46824
+          },
+          "deaths": {
+            "new": "+1",
+            "1M_pop": "2014",
+            "total": 156
+          },
+          "tests": {
+            "1M_pop": "3225256",
+            "total": 249838
+          },
+          "day": "2022-11-19",
+          "time": "2022-11-19T08:30:08+00:00"
+        },
+        {
+          "continent": "North-America",
+          "country": "Bermuda",
+          "population": 61939,
+          "cases": {
+            "new": "+35",
+            "active": 23,
+            "critical": null,
+            "recovered": 18289,
+            "1M_pop": "298084",
+            "total": 18463
+          },
+          "deaths": {
+            "new": "+2",
+            "1M_pop": "2438",
+            "total": 151
+          },
+          "tests": {
+            "1M_pop": "16444857",
+            "total": 1018578
+          },
+          "day": "2022-11-19",
+          "time": "2022-11-19T08:30:08+00:00"
+        },
+        {
+          "continent": "Africa",
+          "country": "Rwanda",
+          "population": 13600464,
+          "cases": {
+            "new": "+32",
+            "active": 64,
+            "critical": null,
+            "recovered": 131112,
+            "1M_pop": "9753",
+            "total": 132643
+          },
+          "deaths": {
+            "new": null,
+            "1M_pop": "108",
+            "total": 1467
+          },
+          "tests": {
+            "1M_pop": "432520",
+            "total": 5882479
+          },
+          "day": "2022-11-19",
+          "time": "2022-11-19T08:30:08+00:00"
+        },
+        {
+          "continent": "Africa",
+          "country": "Malawi",
+          "population": 20180839,
+          "cases": {
+            "new": null,
+            "active": 395,
+            "critical": 67,
+            "recovered": 84993,
+            "1M_pop": "4364",
+            "total": 88073
+          },
+          "deaths": {
+            "new": null,
+            "1M_pop": "133",
+            "total": 2685
+          },
+          "tests": {
+            "1M_pop": "30839",
+            "total": 622351
+          },
+          "day": "2022-11-19",
+          "time": "2022-11-19T08:30:08+00:00"
+        },
+        {
+          "continent": "North-America",
+          "country": "Belize",
+          "population": 412190,
+          "cases": {
+            "new": "+16",
+            "active": 10,
+            "critical": 6,
+            "recovered": 68291,
+            "1M_pop": "167369",
+            "total": 68988
+          },
+          "deaths": {
+            "new": null,
+            "1M_pop": "1667",
+            "total": 687
+          },
+          "tests": {
+            "1M_pop": "1397453",
+            "total": 576016
+          },
+          "day": "2022-11-19",
+          "time": "2022-11-19T08:30:08+00:00"
+        },
+        {
+          "continent": "Africa",
+          "country": "Eswatini",
+          "population": 1184817,
+          "cases": {
+            "new": "+90",
+            "active": 125,
+            "critical": null,
+            "recovered": 72161,
+            "1M_pop": "62210",
+            "total": 73708
+          },
+          "deaths": {
+            "new": null,
+            "1M_pop": "1200",
+            "total": 1422
+          },
+          "tests": {
+            "1M_pop": "884429",
+            "total": 1047886
+          },
+          "day": "2022-11-19",
+          "time": "2022-11-19T08:30:08+00:00"
+        },
+        {
+          "continent": "Asia",
+          "country": "Bhutan",
+          "population": 787941,
+          "cases": {
+            "new": "+30",
+            "active": 875,
+            "critical": null,
+            "recovered": 61564,
+            "1M_pop": "79270",
+            "total": 62460
+          },
+          "deaths": {
+            "new": null,
+            "1M_pop": "27",
+            "total": 21
+          },
+          "tests": {
+            "1M_pop": "2923739",
+            "total": 2303734
+          },
+          "day": "2022-11-19",
+          "time": "2022-11-19T08:30:08+00:00"
+        },
+        {
+          "continent": "Africa",
+          "country": "Senegal",
+          "population": 17653671,
+          "cases": {
+            "new": "+10",
+            "active": 41,
+            "critical": null,
+            "recovered": 86833,
+            "1M_pop": "5032",
+            "total": 88842
+          },
+          "deaths": {
+            "new": null,
+            "1M_pop": "111",
+            "total": 1968
+          },
+          "tests": {
+            "1M_pop": "64946",
+            "total": 1146543
+          },
+          "day": "2022-11-19",
+          "time": "2022-11-19T08:30:08+00:00"
+        },
+        {
+          "continent": "Africa",
+          "country": "Madagascar",
+          "population": 29178077,
+          "cases": {
+            "new": "+71",
+            "active": 108,
+            "critical": null,
+            "recovered": 65340,
+            "1M_pop": "2291",
+            "total": 66859
+          },
+          "deaths": {
+            "new": null,
+            "1M_pop": "48",
+            "total": 1411
+          },
+          "tests": {
+            "1M_pop": "17691",
+            "total": 516178
+          },
+          "day": "2022-11-19",
+          "time": "2022-11-19T08:30:08+00:00"
+        },
+        {
+          "continent": "Oceania",
+          "country": "French-Polynesia",
+          "population": 284164,
+          "cases": {
+            "new": "+30",
+            "active": null,
+            "critical": 7,
+            "recovered": null,
+            "1M_pop": "270361",
+            "total": 76827
+          },
+          "deaths": {
+            "new": null,
+            "1M_pop": "2284",
+            "total": 649
+          },
+          "tests": {
+            "1M_pop": null,
+            "total": null
+          },
+          "day": "2022-11-19",
+          "time": "2022-11-19T08:30:08+00:00"
+        },
+        {
+          "continent": "Africa",
+          "country": "Tanzania",
+          "population": 63298550,
+          "cases": {
+            "new": "+159",
+            "active": null,
+            "critical": 7,
+            "recovered": null,
+            "1M_pop": "637",
+            "total": 40311
+          },
+          "deaths": {
+            "new": null,
+            "1M_pop": "13",
+            "total": 845
+          },
+          "tests": {
+            "1M_pop": null,
+            "total": null
+          },
+          "day": "2022-11-19",
+          "time": "2022-11-19T08:30:08+00:00"
+        },
+        {
+          "continent": "Africa",
+          "country": "Guinea",
+          "population": 13865691,
+          "cases": {
+            "new": "+31",
+            "active": 471,
+            "critical": 8,
+            "recovered": 37218,
+            "1M_pop": "2752",
+            "total": 38153
+          },
+          "deaths": {
+            "new": "+6",
+            "1M_pop": "33",
+            "total": 464
+          },
+          "tests": {
+            "1M_pop": "47607",
+            "total": 660107
+          },
+          "day": "2022-11-19",
+          "time": "2022-11-19T08:30:08+00:00"
+        },
+        {
+          "continent": "Africa",
+          "country": "Benin",
+          "population": 12784726,
+          "cases": {
+            "new": "+10",
+            "active": 13,
+            "critical": 5,
+            "recovered": 27746,
+            "1M_pop": "2184",
+            "total": 27922
+          },
+          "deaths": {
+            "new": null,
+            "1M_pop": "13",
+            "total": 163
+          },
+          "tests": {
+            "1M_pop": "47268",
+            "total": 604310
+          },
+          "day": "2022-11-19",
+          "time": "2022-11-19T08:30:08+00:00"
+        },
+        {
+          "continent": "Europe",
+          "country": "San-Marino",
+          "population": 34085,
+          "cases": {
+            "new": "+59",
+            "active": 125,
+            "critical": 4,
+            "recovered": 21554,
+            "1M_pop": "639519",
+            "total": 21798
+          },
+          "deaths": {
+            "new": null,
+            "1M_pop": "3491",
+            "total": 119
+          },
+          "tests": {
+            "1M_pop": "4624732",
+            "total": 157634
+          },
+          "day": "2022-11-19",
+          "time": "2022-11-19T08:30:08+00:00"
+        },
+        {
+          "continent": "Asia",
+          "country": "Cambodia",
+          "population": 17168639,
+          "cases": {
+            "new": "+9",
+            "active": 23,
+            "critical": null,
+            "recovered": 134940,
+            "1M_pop": "8039",
+            "total": 138019
+          },
+          "deaths": {
+            "new": null,
+            "1M_pop": "178",
+            "total": 3056
+          },
+          "tests": {
+            "1M_pop": "180062",
+            "total": 3091420
+          },
+          "day": "2022-11-19",
+          "time": "2022-11-19T08:30:08+00:00"
+        },
+        {
+          "continent": "Africa",
+          "country": "Cameroon",
+          "population": 27911548,
+          "cases": {
+            "new": "+364",
+            "active": 3412,
+            "critical": 13,
+            "recovered": 118616,
+            "1M_pop": "4442",
+            "total": 123993
+          },
+          "deaths": {
+            "new": "+5",
+            "1M_pop": "70",
+            "total": 1965
+          },
+          "tests": {
+            "1M_pop": "62762",
+            "total": 1751774
+          },
+          "day": "2022-11-19",
+          "time": "2022-11-19T08:30:08+00:00"
+        },
+        {
+          "continent": "Africa",
+          "country": "Angola",
+          "population": 35027343,
+          "cases": {
+            "new": null,
+            "active": 59,
+            "critical": null,
+            "recovered": 101155,
+            "1M_pop": "2944",
+            "total": 103131
+          },
+          "deaths": {
+            "new": null,
+            "1M_pop": "55",
+            "total": 1917
+          },
+          "tests": {
+            "1M_pop": "42818",
+            "total": 1499795
+          },
+          "day": "2022-11-19",
+          "time": "2022-11-19T08:30:08+00:00"
+        },
+        {
+          "continent": "Europe",
+          "country": "Liechtenstein",
+          "population": 38387,
+          "cases": {
+            "new": "+17",
+            "active": 55,
+            "critical": null,
+            "recovered": 20673,
+            "1M_pop": "542241",
+            "total": 20815
+          },
+          "deaths": {
+            "new": null,
+            "1M_pop": "2266",
+            "total": 87
+          },
+          "tests": {
+            "1M_pop": "2661682",
+            "total": 102174
+          },
+          "day": "2022-11-19",
+          "time": "2022-11-19T08:30:08+00:00"
+        },
+        {
+          "continent": "Africa",
+          "country": "Sudan",
+          "population": 45992020,
+          "cases": {
+            "new": null,
+            "active": 800,
+            "critical": null,
+            "recovered": 57814,
+            "1M_pop": "1383",
+            "total": 63595
+          },
+          "deaths": {
+            "new": null,
+            "1M_pop": "108",
+            "total": 4981
+          },
+          "tests": {
+            "1M_pop": "12240",
+            "total": 562941
+          },
+          "day": "2022-11-19",
+          "time": "2022-11-19T08:30:08+00:00"
+        },
+        {
+          "continent": "South-America",
+          "country": "Suriname",
+          "population": 596831,
+          "cases": {
+            "new": null,
+            "active": null,
+            "critical": null,
+            "recovered": null,
+            "1M_pop": "136099",
+            "total": 81228
+          },
+          "deaths": {
+            "new": null,
+            "1M_pop": "2332",
+            "total": 1392
+          },
+          "tests": {
+            "1M_pop": "401459",
+            "total": 239603
+          },
+          "day": "2022-11-19",
+          "time": "2022-11-19T08:30:08+00:00"
+        },
+        {
+          "continent": "Africa",
+          "country": "Seychelles",
+          "population": 99426,
+          "cases": {
+            "new": null,
+            "active": 583,
+            "critical": null,
+            "recovered": 48626,
+            "1M_pop": "496651",
+            "total": 49380
+          },
+          "deaths": {
+            "new": null,
+            "1M_pop": "1720",
+            "total": 171
+          },
+          "tests": {
+            "1M_pop": null,
+            "total": null
+          },
+          "day": "2022-11-19",
+          "time": "2022-11-19T08:30:08+00:00"
+        },
+        {
+          "continent": "Europe",
+          "country": "Malta",
+          "population": 444033,
+          "cases": {
+            "new": "+13",
+            "active": 641,
+            "critical": 4,
+            "recovered": 114224,
+            "1M_pop": "260505",
+            "total": 115673
+          },
+          "deaths": {
+            "new": null,
+            "1M_pop": "1820",
+            "total": 808
+          },
+          "tests": {
+            "1M_pop": "4698200",
+            "total": 2086156
+          },
+          "day": "2022-11-19",
+          "time": "2022-11-19T08:30:08+00:00"
+        },
+        {
+          "continent": "Europe",
+          "country": "Isle-of-Man",
+          "population": 85732,
+          "cases": {
+            "new": null,
+            "active": null,
+            "critical": null,
+            "recovered": null,
+            "1M_pop": "443335",
+            "total": 38008
+          },
+          "deaths": {
+            "new": null,
+            "1M_pop": "1353",
+            "total": 116
+          },
+          "tests": {
+            "1M_pop": "1758422",
+            "total": 150753
+          },
+          "day": "2022-11-19",
+          "time": "2022-11-19T08:30:08+00:00"
+        },
+        {
+          "continent": "Oceania",
+          "country": "New-Caledonia",
+          "population": 290915,
+          "cases": {
+            "new": "+225",
+            "active": 283,
+            "critical": 9,
+            "recovered": 74085,
+            "1M_pop": "256714",
+            "total": 74682
+          },
+          "deaths": {
+            "new": null,
+            "1M_pop": "1079",
+            "total": 314
+          },
+          "tests": {
+            "1M_pop": "340182",
+            "total": 98964
+          },
+          "day": "2022-11-19",
+          "time": "2022-11-19T08:30:08+00:00"
+        },
+        {
+          "continent": "Europe",
+          "country": "Faeroe-Islands",
+          "population": 49233,
+          "cases": {
+            "new": null,
+            "active": null,
+            "critical": 5,
+            "recovered": null,
+            "1M_pop": "703959",
+            "total": 34658
+          },
+          "deaths": {
+            "new": null,
+            "1M_pop": "569",
+            "total": 28
+          },
+          "tests": {
+            "1M_pop": "15802409",
+            "total": 778000
+          },
+          "day": "2022-11-19",
+          "time": "2022-11-19T08:30:08+00:00"
+        },
+        {
+          "continent": "Africa",
+          "country": "Lesotho",
+          "population": 2175699,
+          "cases": {
+            "new": null,
+            "active": 7804,
+            "critical": null,
+            "recovered": 25980,
+            "1M_pop": "15852",
+            "total": 34490
+          },
+          "deaths": {
+            "new": null,
+            "1M_pop": "324",
+            "total": 706
+          },
+          "tests": {
+            "1M_pop": "198199",
+            "total": 431221
+          },
+          "day": "2022-11-19",
+          "time": "2022-11-19T08:30:08+00:00"
+        },
+        {
+          "continent": "North-America",
+          "country": "Saint-Lucia",
+          "population": 185113,
+          "cases": {
+            "new": null,
+            "active": 51,
+            "critical": null,
+            "recovered": 29095,
+            "1M_pop": "159632",
+            "total": 29550
+          },
+          "deaths": {
+            "new": null,
+            "1M_pop": "2182",
+            "total": 404
+          },
+          "tests": {
+            "1M_pop": "1139752",
+            "total": 210983
+          },
+          "day": "2022-11-19",
+          "time": "2022-11-19T08:30:08+00:00"
+        },
+        {
+          "continent": "Africa",
+          "country": "Somalia",
+          "population": 16841795,
+          "cases": {
+            "new": "+11",
+            "active": 12711,
+            "critical": null,
+            "recovered": 13182,
+            "1M_pop": "1618",
+            "total": 27254
+          },
+          "deaths": {
+            "new": null,
+            "1M_pop": "81",
+            "total": 1361
+          },
+          "tests": {
+            "1M_pop": "23778",
+            "total": 400466
+          },
+          "day": "2022-11-19",
+          "time": "2022-11-19T08:30:08+00:00"
+        },
+        {
+          "continent": "Oceania",
+          "country": "Micronesia",
+          "population": 117489,
+          "cases": {
+            "new": null,
+            "active": null,
+            "critical": 1,
+            "recovered": null,
+            "1M_pop": "188979",
+            "total": 22203
+          },
+          "deaths": {
+            "new": null,
+            "1M_pop": "468",
+            "total": 55
+          },
+          "tests": {
+            "1M_pop": "186596",
+            "total": 21923
+          },
+          "day": "2022-11-19",
+          "time": "2022-11-19T08:30:08+00:00"
+        },
+        {
+          "continent": "Africa",
+          "country": "Burkina-Faso",
+          "population": 22102838,
+          "cases": {
+            "new": null,
+            "active": 101,
+            "critical": null,
+            "recovered": 21143,
+            "1M_pop": "979",
+            "total": 21631
+          },
+          "deaths": {
+            "new": null,
+            "1M_pop": "18",
+            "total": 387
+          },
+          "tests": {
+            "1M_pop": "11265",
+            "total": 248995
+          },
+          "day": "2022-11-19",
+          "time": "2022-11-19T08:30:08+00:00"
+        },
+        {
+          "continent": "Oceania",
+          "country": "Solomon-Islands",
+          "population": 721159,
+          "cases": {
+            "new": null,
+            "active": 5034,
+            "critical": 1,
+            "recovered": 16357,
+            "1M_pop": "29874",
+            "total": 21544
+          },
+          "deaths": {
+            "new": null,
+            "1M_pop": "212",
+            "total": 153
+          },
+          "tests": {
+            "1M_pop": "7096",
+            "total": 5117
+          },
+          "day": "2022-11-19",
+          "time": "2022-11-19T08:30:08+00:00"
+        },
+        {
+          "continent": "North-America",
+          "country": "Nicaragua",
+          "population": 6779100,
+          "cases": {
+            "new": null,
+            "active": 14041,
+            "critical": null,
+            "recovered": 4225,
+            "1M_pop": "2728",
+            "total": 18491
+          },
+          "deaths": {
+            "new": null,
+            "1M_pop": "33",
+            "total": 225
+          },
+          "tests": {
+            "1M_pop": null,
+            "total": null
+          },
+          "day": "2022-11-19",
+          "time": "2022-11-19T08:30:08+00:00"
+        },
+        {
+          "continent": "Asia",
+          "country": "Tajikistan",
+          "population": 9957464,
+          "cases": {
+            "new": null,
+            "active": 397,
+            "critical": null,
+            "recovered": 17264,
+            "1M_pop": "1786",
+            "total": 17786
+          },
+          "deaths": {
+            "new": null,
+            "1M_pop": "13",
+            "total": 125
+          },
+          "tests": {
+            "1M_pop": null,
+            "total": null
+          },
+          "day": "2022-11-19",
+          "time": "2022-11-19T08:30:08+00:00"
+        },
+        {
+          "continent": "Africa",
+          "country": "Mauritius",
+          "population": 1274727,
+          "cases": {
+            "new": "+83",
+            "active": 691,
+            "critical": null,
+            "recovered": 39079,
+            "1M_pop": "32008",
+            "total": 40801
+          },
+          "deaths": {
+            "new": null,
+            "1M_pop": "809",
+            "total": 1031
+          },
+          "tests": {
+            "1M_pop": "281374",
+            "total": 358675
+          },
+          "day": "2022-11-19",
+          "time": "2022-11-19T08:30:08+00:00"
+        },
+        {
+          "continent": "Africa",
+          "country": "Mauritania",
+          "population": 4901981,
+          "cases": {
+            "new": "+3",
+            "active": 17,
+            "critical": null,
+            "recovered": 62403,
+            "1M_pop": "12937",
+            "total": 63417
+          },
+          "deaths": {
+            "new": null,
+            "1M_pop": "203",
+            "total": 997
+          },
+          "tests": {
+            "1M_pop": "204996",
+            "total": 1004886
+          },
+          "day": "2022-11-19",
+          "time": "2022-11-19T08:30:08+00:00"
+        },
+        {
+          "continent": "Africa",
+          "country": "Mali",
+          "population": 21473764,
+          "cases": {
+            "new": "+5",
+            "active": 89,
+            "critical": null,
+            "recovered": 31924,
+            "1M_pop": "1525",
+            "total": 32755
+          },
+          "deaths": {
+            "new": null,
+            "1M_pop": "35",
+            "total": 742
+          },
+          "tests": {
+            "1M_pop": "36100",
+            "total": 775201
+          },
+          "day": "2022-11-19",
+          "time": "2022-11-19T08:30:08+00:00"
+        },
+        {
+          "continent": "North-America",
+          "country": "Cayman-Islands",
+          "population": 67277,
+          "cases": {
+            "new": "+98",
+            "active": 22605,
+            "critical": 1,
+            "recovered": 8553,
+            "1M_pop": "463665",
+            "total": 31194
+          },
+          "deaths": {
+            "new": "+1",
+            "1M_pop": "535",
+            "total": 36
+          },
+          "tests": {
+            "1M_pop": "3311280",
+            "total": 222773
+          },
+          "day": "2022-11-19",
+          "time": "2022-11-19T08:30:08+00:00"
+        },
+        {
+          "continent": "North-America",
+          "country": "Grenada",
+          "population": 113475,
+          "cases": {
+            "new": "+9",
+            "active": 18,
+            "critical": 4,
+            "recovered": 19358,
+            "1M_pop": "172840",
+            "total": 19613
+          },
+          "deaths": {
+            "new": null,
+            "1M_pop": "2089",
+            "total": 237
+          },
+          "tests": {
+            "1M_pop": "1612523",
+            "total": 182981
+          },
+          "day": "2022-11-19",
+          "time": "2022-11-19T08:30:08+00:00"
+        },
+        {
+          "continent": "Africa",
+          "country": "Cabo-Verde",
+          "population": 567678,
+          "cases": {
+            "new": "+25",
+            "active": 180,
+            "critical": 23,
+            "recovered": 62193,
+            "1M_pop": "110596",
+            "total": 62783
+          },
+          "deaths": {
+            "new": null,
+            "1M_pop": "722",
+            "total": 410
+          },
+          "tests": {
+            "1M_pop": "707482",
+            "total": 401622
+          },
+          "day": "2022-11-19",
+          "time": "2022-11-19T08:30:08+00:00"
+        },
+        {
+          "continent": "Africa",
+          "country": "Burundi",
+          "population": 12624840,
+          "cases": {
+            "new": "+65",
+            "active": 183,
+            "critical": null,
+            "recovered": 50418,
+            "1M_pop": "4011",
+            "total": 50639
+          },
+          "deaths": {
+            "new": null,
+            "1M_pop": "3",
+            "total": 38
+          },
+          "tests": {
+            "1M_pop": "27386",
+            "total": 345742
+          },
+          "day": "2022-11-19",
+          "time": "2022-11-19T08:30:08+00:00"
+        },
+        {
+          "continent": "South-America",
+          "country": "Guyana",
+          "population": 794045,
+          "cases": {
+            "new": "+2",
+            "active": 66,
+            "critical": null,
+            "recovered": 70175,
+            "1M_pop": "90073",
+            "total": 71522
+          },
+          "deaths": {
+            "new": null,
+            "1M_pop": "1613",
+            "total": 1281
+          },
+          "tests": {
+            "1M_pop": "887154",
+            "total": 704440
+          },
+          "day": "2022-11-19",
+          "time": "2022-11-19T08:30:08+00:00"
+        },
+        {
+          "continent": "Asia",
+          "country": "Syria",
+          "population": 19364809,
+          "cases": {
+            "new": "+1",
+            "active": 7,
+            "critical": null,
+            "recovered": 54216,
+            "1M_pop": "2963",
+            "total": 57386
+          },
+          "deaths": {
+            "new": null,
+            "1M_pop": "163",
+            "total": 3163
+          },
+          "tests": {
+            "1M_pop": "7553",
+            "total": 146269
+          },
+          "day": "2022-11-19",
+          "time": "2022-11-19T08:30:08+00:00"
+        },
+        {
+          "continent": "Africa",
+          "country": "Togo",
+          "population": 8680837,
+          "cases": {
+            "new": "+1",
+            "active": 8,
+            "critical": null,
+            "recovered": 39023,
+            "1M_pop": "4530",
+            "total": 39321
+          },
+          "deaths": {
+            "new": null,
+            "1M_pop": "33",
+            "total": 290
+          },
+          "tests": {
+            "1M_pop": "92148",
+            "total": 799925
+          },
+          "day": "2022-11-19",
+          "time": "2022-11-19T08:30:08+00:00"
+        },
+        {
+          "continent": "Europe",
+          "country": "North-Macedonia",
+          "population": 2081304,
+          "cases": {
+            "new": "+189",
+            "active": 629,
+            "critical": null,
+            "recovered": 334335,
+            "1M_pop": "165536",
+            "total": 344531
+          },
+          "deaths": {
+            "new": "+3",
+            "1M_pop": "4597",
+            "total": 9567
+          },
+          "tests": {
+            "1M_pop": "1028697",
+            "total": 2141032
+          },
+          "day": "2022-11-19",
+          "time": "2022-11-19T08:30:07+00:00"
+        },
+        {
+          "continent": "Asia",
+          "country": "Armenia",
+          "population": 2971966,
+          "cases": {
+            "new": "+116",
+            "active": 2205,
+            "critical": null,
+            "recovered": 434599,
+            "1M_pop": "149905",
+            "total": 445513
+          },
+          "deaths": {
+            "new": null,
+            "1M_pop": "2930",
+            "total": 8709
+          },
+          "tests": {
+            "1M_pop": "1087457",
+            "total": 3231885
+          },
+          "day": "2022-11-19",
+          "time": "2022-11-19T08:30:07+00:00"
+        },
+        {
+          "continent": "Africa",
+          "country": "Mozambique",
+          "population": 33089461,
+          "cases": {
+            "new": "+68",
+            "active": 103,
+            "critical": 11,
+            "recovered": 228216,
+            "1M_pop": "6967",
+            "total": 230543
+          },
+          "deaths": {
+            "new": null,
+            "1M_pop": "67",
+            "total": 2224
+          },
+          "tests": {
+            "1M_pop": "41437",
+            "total": 1371127
+          },
+          "day": "2022-11-19",
+          "time": "2022-11-19T08:30:07+00:00"
+        },
+        {
+          "continent": "Asia",
+          "country": "Kyrgyzstan",
+          "population": 6728271,
+          "cases": {
+            "new": "+19",
+            "active": 7086,
+            "critical": 131,
+            "recovered": 196406,
+            "1M_pop": "30689",
+            "total": 206483
+          },
+          "deaths": {
+            "new": null,
+            "1M_pop": "445",
+            "total": 2991
+          },
+          "tests": {
+            "1M_pop": "283460",
+            "total": 1907195
+          },
+          "day": "2022-11-19",
+          "time": "2022-11-19T08:30:07+00:00"
+        },
+        {
+          "continent": "Europe",
+          "country": "Moldova",
+          "population": 4013171,
+          "cases": {
+            "new": "+278",
+            "active": 78393,
+            "critical": 49,
+            "recovered": 504142,
+            "1M_pop": "148123",
+            "total": 594441
+          },
+          "deaths": {
+            "new": "+6",
+            "1M_pop": "2967",
+            "total": 11906
+          },
+          "tests": {
+            "1M_pop": "801437",
+            "total": 3216305
+          },
+          "day": "2022-11-19",
+          "time": "2022-11-19T08:30:07+00:00"
+        },
+        {
+          "continent": "Asia",
+          "country": "Maldives",
+          "population": 540985,
+          "cases": {
+            "new": "+95",
+            "active": 21551,
+            "critical": 25,
+            "recovered": 163687,
+            "1M_pop": "342984",
+            "total": 185549
+          },
+          "deaths": {
+            "new": "+2",
+            "1M_pop": "575",
+            "total": 311
+          },
+          "tests": {
+            "1M_pop": "4092223",
+            "total": 2213831
+          },
+          "day": "2022-11-19",
+          "time": "2022-11-19T08:30:07+00:00"
+        },
+        {
+          "continent": "Africa",
+          "country": "Ghana",
+          "population": 32395450,
+          "cases": {
+            "new": "+78",
+            "active": 71,
+            "critical": 2,
+            "recovered": 169440,
+            "1M_pop": "5278",
+            "total": 170972
+          },
+          "deaths": {
+            "new": "+1",
+            "1M_pop": "45",
+            "total": 1461
+          },
+          "tests": {
+            "1M_pop": "77791",
+            "total": 2520078
+          },
+          "day": "2022-11-19",
+          "time": "2022-11-19T08:30:07+00:00"
+        },
+        {
+          "continent": "North-America",
+          "country": "Martinique",
+          "population": 374087,
+          "cases": {
+            "new": "+149",
+            "active": null,
+            "critical": 8,
+            "recovered": null,
+            "1M_pop": "598462",
+            "total": 223877
+          },
+          "deaths": {
+            "new": "+10",
+            "1M_pop": "2826",
+            "total": 1057
+          },
+          "tests": {
+            "1M_pop": "2215870",
+            "total": 828928
+          },
+          "day": "2022-11-19",
+          "time": "2022-11-19T08:30:07+00:00"
+        },
+        {
+          "continent": "North-America",
+          "country": "Trinidad-and-Tobago",
+          "population": 1406585,
+          "cases": {
+            "new": "+145",
+            "active": 187,
+            "critical": 8,
+            "recovered": 180644,
+            "1M_pop": "131591",
+            "total": 185094
+          },
+          "deaths": {
+            "new": "+6",
+            "1M_pop": "3031",
+            "total": 4263
+          },
+          "tests": {
+            "1M_pop": "613406",
+            "total": 862808
+          },
+          "day": "2022-11-19",
+          "time": "2022-11-19T08:30:07+00:00"
+        },
+        {
+          "continent": "Asia",
+          "country": "Laos",
+          "population": 7481023,
+          "cases": {
+            "new": "+16",
+            "active": null,
+            "critical": null,
+            "recovered": null,
+            "1M_pop": "28935",
+            "total": 216460
+          },
+          "deaths": {
+            "new": null,
+            "1M_pop": "101",
+            "total": 758
+          },
+          "tests": {
+            "1M_pop": "164845",
+            "total": 1233207
+          },
+          "day": "2022-11-19",
+          "time": "2022-11-19T08:30:07+00:00"
+        },
+        {
+          "continent": "Europe",
+          "country": "Iceland",
+          "population": 345393,
+          "cases": {
+            "new": "+200",
+            "active": null,
+            "critical": 2,
+            "recovered": null,
+            "1M_pop": "599326",
+            "total": 207003
+          },
+          "deaths": {
+            "new": null,
+            "1M_pop": "634",
+            "total": 219
+          },
+          "tests": {
+            "1M_pop": "5780036",
+            "total": 1996384
+          },
+          "day": "2022-11-19",
+          "time": "2022-11-19T08:30:07+00:00"
+        },
+        {
+          "continent": "North-America",
+          "country": "Guadeloupe",
+          "population": 399794,
+          "cases": {
+            "new": "+835",
+            "active": null,
+            "critical": 19,
+            "recovered": null,
+            "1M_pop": "493016",
+            "total": 197105
+          },
+          "deaths": {
+            "new": null,
+            "1M_pop": "2484",
+            "total": 993
+          },
+          "tests": {
+            "1M_pop": "2346306",
+            "total": 938039
+          },
+          "day": "2022-11-19",
+          "time": "2022-11-19T08:30:07+00:00"
+        },
+        {
+          "continent": "Africa",
+          "country": "Uganda",
+          "population": 48432863,
+          "cases": {
+            "new": "+82",
+            "active": 65602,
+            "critical": 3,
+            "recovered": 100431,
+            "1M_pop": "3503",
+            "total": 169663
+          },
+          "deaths": {
+            "new": null,
+            "1M_pop": "75",
+            "total": 3630
+          },
+          "tests": {
+            "1M_pop": "62198",
+            "total": 3012408
+          },
+          "day": "2022-11-19",
+          "time": "2022-11-19T08:30:07+00:00"
+        },
+        {
+          "continent": "South-America",
+          "country": "Venezuela",
+          "population": 29266991,
+          "cases": {
+            "new": null,
+            "active": 748,
+            "critical": 36,
+            "recovered": 540160,
+            "1M_pop": "18681",
+            "total": 546733
+          },
+          "deaths": {
+            "new": null,
+            "1M_pop": "199",
+            "total": 5825
+          },
+          "tests": {
+            "1M_pop": "114771",
+            "total": 3359014
+          },
+          "day": "2022-11-19",
+          "time": "2022-11-19T08:30:07+00:00"
+        },
+        {
+          "continent": "Africa",
+          "country": "Egypt",
+          "population": 106156692,
+          "cases": {
+            "new": null,
+            "active": 48850,
+            "critical": 122,
+            "recovered": 442182,
+            "1M_pop": "4857",
+            "total": 515645
+          },
+          "deaths": {
+            "new": null,
+            "1M_pop": "232",
+            "total": 24613
+          },
+          "tests": {
+            "1M_pop": "34792",
+            "total": 3693367
+          },
+          "day": "2022-11-19",
+          "time": "2022-11-19T08:30:07+00:00"
+        },
+        {
+          "continent": "Asia",
+          "country": "Oman",
+          "population": 5323993,
+          "cases": {
+            "new": null,
+            "active": 9846,
+            "critical": 2,
+            "recovered": 384669,
+            "1M_pop": "74901",
+            "total": 398775
+          },
+          "deaths": {
+            "new": null,
+            "1M_pop": "800",
+            "total": 4260
+          },
+          "tests": {
+            "1M_pop": "4695724",
+            "total": 25000000
+          },
+          "day": "2022-11-19",
+          "time": "2022-11-19T08:30:07+00:00"
+        },
+        {
+          "continent": "Africa",
+          "country": "Nigeria",
+          "population": 216746934,
+          "cases": {
+            "new": "+50",
+            "active": 3532,
+            "critical": 11,
+            "recovered": 259555,
+            "1M_pop": "1228",
+            "total": 266242
+          },
+          "deaths": {
+            "new": null,
+            "1M_pop": "15",
+            "total": 3155
+          },
+          "tests": {
+            "1M_pop": "25104",
+            "total": 5441162
+          },
+          "day": "2022-11-19",
+          "time": "2022-11-19T08:30:07+00:00"
+        },
+        {
+          "continent": "Africa",
+          "country": "Zambia",
+          "population": 19470234,
+          "cases": {
+            "new": null,
+            "active": 16,
+            "critical": null,
+            "recovered": 329652,
+            "1M_pop": "17138",
+            "total": 333685
+          },
+          "deaths": {
+            "new": null,
+            "1M_pop": "206",
+            "total": 4017
+          },
+          "tests": {
+            "1M_pop": "192652",
+            "total": 3750980
+          },
+          "day": "2022-11-19",
+          "time": "2022-11-19T08:30:07+00:00"
+        },
+        {
+          "continent": "Africa",
+          "country": "Botswana",
+          "population": 2441162,
+          "cases": {
+            "new": null,
+            "active": 599,
+            "critical": 1,
+            "recovered": 322955,
+            "1M_pop": "133684",
+            "total": 326344
+          },
+          "deaths": {
+            "new": null,
+            "1M_pop": "1143",
+            "total": 2790
+          },
+          "tests": {
+            "1M_pop": "830300",
+            "total": 2026898
+          },
+          "day": "2022-11-19",
+          "time": "2022-11-19T08:30:07+00:00"
+        },
+        {
+          "continent": "Europe",
+          "country": "Luxembourg",
+          "population": 642371,
+          "cases": {
+            "new": null,
+            "active": 7633,
+            "critical": null,
+            "recovered": 288991,
+            "1M_pop": "463528",
+            "total": 297757
+          },
+          "deaths": {
+            "new": null,
+            "1M_pop": "1764",
+            "total": 1133
+          },
+          "tests": {
+            "1M_pop": "6869188",
+            "total": 4412567
+          },
+          "day": "2022-11-19",
+          "time": "2022-11-19T08:30:07+00:00"
+        },
+        {
+          "continent": "Africa",
+          "country": "Zimbabwe",
+          "population": 15331428,
+          "cases": {
+            "new": null,
+            "active": 383,
+            "critical": 12,
+            "recovered": 251904,
+            "1M_pop": "16821",
+            "total": 257893
+          },
+          "deaths": {
+            "new": null,
+            "1M_pop": "366",
+            "total": 5606
+          },
+          "tests": {
+            "1M_pop": "164744",
+            "total": 2525756
+          },
+          "day": "2022-11-19",
+          "time": "2022-11-19T08:30:07+00:00"
+        },
+        {
+          "continent": "Asia",
+          "country": "Brunei",
+          "population": 445431,
+          "cases": {
+            "new": null,
+            "active": 18679,
+            "critical": 3,
+            "recovered": 222140,
+            "1M_pop": "541148",
+            "total": 241044
+          },
+          "deaths": {
+            "new": null,
+            "1M_pop": "505",
+            "total": 225
+          },
+          "tests": {
+            "1M_pop": "1611437",
+            "total": 717784
+          },
+          "day": "2022-11-19",
+          "time": "2022-11-19T08:30:07+00:00"
+        },
+        {
+          "continent": "North-America",
+          "country": "El-Salvador",
+          "population": 6550389,
+          "cases": {
+            "new": null,
+            "active": 18145,
+            "critical": 8,
+            "recovered": 179410,
+            "1M_pop": "30805",
+            "total": 201785
+          },
+          "deaths": {
+            "new": null,
+            "1M_pop": "646",
+            "total": 4230
+          },
+          "tests": {
+            "1M_pop": "398467",
+            "total": 2610114
+          },
+          "day": "2022-11-19",
+          "time": "2022-11-19T08:30:07+00:00"
+        },
+        {
+          "continent": "Africa",
+          "country": "Namibia",
+          "population": 2633874,
+          "cases": {
+            "new": null,
+            "active": 40,
+            "critical": null,
+            "recovered": 165826,
+            "1M_pop": "64523",
+            "total": 169946
+          },
+          "deaths": {
+            "new": null,
+            "1M_pop": "1549",
+            "total": 4080
+          },
+          "tests": {
+            "1M_pop": "403460",
+            "total": 1062663
+          },
+          "day": "2022-11-19",
+          "time": "2022-11-19T08:30:07+00:00"
+        },
+        {
+          "continent": "North-America",
+          "country": "Jamaica",
+          "population": 2985094,
+          "cases": {
+            "new": null,
+            "active": 49219,
+            "critical": null,
+            "recovered": 99392,
+            "1M_pop": "50897",
+            "total": 151931
+          },
+          "deaths": {
+            "new": null,
+            "1M_pop": "1112",
+            "total": 3320
+          },
+          "tests": {
+            "1M_pop": "396633",
+            "total": 1183986
+          },
+          "day": "2022-11-19",
+          "time": "2022-11-19T08:30:07+00:00"
+        },
+        {
+          "continent": "Europe",
+          "country": "Bosnia-and-Herzegovina",
+          "population": 3249317,
+          "cases": {
+            "new": "+14",
+            "active": 5976,
+            "critical": null,
+            "recovered": 378170,
+            "1M_pop": "123206",
+            "total": 400336
+          },
+          "deaths": {
+            "new": null,
+            "1M_pop": "4983",
+            "total": 16190
+          },
+          "tests": {
+            "1M_pop": "578088",
+            "total": 1878391
+          },
+          "day": "2022-11-19",
+          "time": "2022-11-19T08:30:07+00:00"
+        },
+        {
+          "continent": "Asia",
+          "country": "Afghanistan",
+          "population": 40754388,
+          "cases": {
+            "new": "+20",
+            "active": 15468,
+            "critical": 1124,
+            "recovered": 181711,
+            "1M_pop": "5030",
+            "total": 205009
+          },
+          "deaths": {
+            "new": null,
+            "1M_pop": "192",
+            "total": 7830
+          },
+          "tests": {
+            "1M_pop": "28189",
+            "total": 1148835
+          },
+          "day": "2022-11-19",
+          "time": "2022-11-19T08:30:07+00:00"
+        },
+        {
+          "continent": "Asia",
+          "country": "Qatar",
+          "population": 2979915,
+          "cases": {
+            "new": "+280",
+            "active": 1583,
+            "critical": 1,
+            "recovered": 473212,
+            "1M_pop": "159561",
+            "total": 475479
+          },
+          "deaths": {
+            "new": null,
+            "1M_pop": "230",
+            "total": 684
+          },
+          "tests": {
+            "1M_pop": "1364257",
+            "total": 4065369
+          },
+          "day": "2022-11-19",
+          "time": "2022-11-19T08:30:07+00:00"
+        },
+        {
+          "continent": "Europe",
+          "country": "Montenegro",
+          "population": 627950,
+          "cases": {
+            "new": "+25",
+            "active": 254,
+            "critical": 6,
+            "recovered": 280425,
+            "1M_pop": "451418",
+            "total": 283468
+          },
+          "deaths": {
+            "new": "+1",
+            "1M_pop": "4441",
+            "total": 2789
+          },
+          "tests": {
+            "1M_pop": "4234374",
+            "total": 2658975
+          },
+          "day": "2022-11-19",
+          "time": "2022-11-19T08:30:07+00:00"
+        },
+        {
+          "continent": "Africa",
+          "country": "Ethiopia",
+          "population": 120812698,
+          "cases": {
+            "new": "+15",
+            "active": 14506,
+            "critical": 2,
+            "recovered": 472207,
+            "1M_pop": "4091",
+            "total": 494285
+          },
+          "deaths": {
+            "new": null,
+            "1M_pop": "63",
+            "total": 7572
+          },
+          "tests": {
+            "1M_pop": "44252",
+            "total": 5346201
+          },
+          "day": "2022-11-19",
+          "time": "2022-11-19T08:30:07+00:00"
+        },
+        {
+          "continent": "Africa",
+          "country": "Kenya",
+          "population": 56215221,
+          "cases": {
+            "new": "+104",
+            "active": 996,
+            "critical": 1,
+            "recovered": 334208,
+            "1M_pop": "6064",
+            "total": 340888
+          },
+          "deaths": {
+            "new": null,
+            "1M_pop": "101",
+            "total": 5684
+          },
+          "tests": {
+            "1M_pop": "69981",
+            "total": 3934013
+          },
+          "day": "2022-11-19",
+          "time": "2022-11-19T08:30:07+00:00"
+        },
+        {
+          "continent": "Europe",
+          "country": "Estonia",
+          "population": 1321910,
+          "cases": {
+            "new": "+490",
+            "active": 80522,
+            "critical": 3,
+            "recovered": 524990,
+            "1M_pop": "460144",
+            "total": 608269
+          },
+          "deaths": {
+            "new": null,
+            "1M_pop": "2086",
+            "total": 2757
+          },
+          "tests": {
+            "1M_pop": "2717680",
+            "total": 3592528
+          },
+          "day": "2022-11-19",
+          "time": "2022-11-19T08:30:07+00:00"
+        },
+        {
+          "continent": "Africa",
+          "country": "Libya",
+          "population": 7040745,
+          "cases": {
+            "new": "+10",
+            "active": 39,
+            "critical": null,
+            "recovered": 500594,
+            "1M_pop": "72019",
+            "total": 507070
+          },
+          "deaths": {
+            "new": null,
+            "1M_pop": "914",
+            "total": 6437
+          },
+          "tests": {
+            "1M_pop": "352707",
+            "total": 2483318
+          },
+          "day": "2022-11-19",
+          "time": "2022-11-19T08:30:07+00:00"
+        },
+        {
+          "continent": "Europe",
+          "country": "Albania",
+          "population": 2866374,
+          "cases": {
+            "new": "+18",
+            "active": 1595,
+            "critical": null,
+            "recovered": 328045,
+            "1M_pop": "116256",
+            "total": 333233
+          },
+          "deaths": {
+            "new": null,
+            "1M_pop": "1254",
+            "total": 3593
+          },
+          "tests": {
+            "1M_pop": "677173",
+            "total": 1941032
+          },
+          "day": "2022-11-19",
+          "time": "2022-11-19T08:30:07+00:00"
+        },
+        {
+          "continent": "Africa",
+          "country": "Algeria",
+          "population": 45350148,
+          "cases": {
+            "new": "+15",
+            "active": 81607,
+            "critical": null,
+            "recovered": 182508,
+            "1M_pop": "5976",
+            "total": 270996
+          },
+          "deaths": {
+            "new": null,
+            "1M_pop": "152",
+            "total": 6881
+          },
+          "tests": {
+            "1M_pop": "5091",
+            "total": 230861
+          },
+          "day": "2022-11-19",
+          "time": "2022-11-19T08:30:07+00:00"
+        },
+        {
+          "continent": "Africa",
+          "country": "R&eacute;union",
+          "population": 908061,
+          "cases": {
+            "new": "+575",
+            "active": 55721,
+            "critical": 10,
+            "recovered": 418572,
+            "1M_pop": "523307",
+            "total": 475195
+          },
+          "deaths": {
+            "new": "+3",
+            "1M_pop": "993",
+            "total": 902
+          },
+          "tests": {
+            "1M_pop": "1766027",
+            "total": 1603660
+          },
+          "day": "2022-11-19",
+          "time": "2022-11-19T08:30:07+00:00"
+        },
+        {
+          "continent": "North-America",
+          "country": "Honduras",
+          "population": 10221247,
+          "cases": {
+            "new": "+49",
+            "active": null,
+            "critical": 105,
+            "recovered": null,
+            "1M_pop": "44760",
+            "total": 457508
+          },
+          "deaths": {
+            "new": null,
+            "1M_pop": "1080",
+            "total": 11043
+          },
+          "tests": {
+            "1M_pop": "152414",
+            "total": 1557865
+          },
+          "day": "2022-11-19",
+          "time": "2022-11-19T08:30:07+00:00"
+        },
+        {
+          "continent": "Asia",
+          "country": "Uzbekistan",
+          "population": 34382084,
+          "cases": {
+            "new": "+69",
+            "active": 2123,
+            "critical": 23,
+            "recovered": 241486,
+            "1M_pop": "7133",
+            "total": 245246
+          },
+          "deaths": {
+            "new": null,
+            "1M_pop": "48",
+            "total": 1637
+          },
+          "tests": {
+            "1M_pop": "40077",
+            "total": 1377915
+          },
+          "day": "2022-11-19",
+          "time": "2022-11-19T08:30:07+00:00"
+        },
+        {
+          "continent": "North-America",
+          "country": "Panama",
+          "population": 4446964,
+          "cases": {
+            "new": "+1372",
+            "active": 1594,
+            "critical": 16,
+            "recovered": 982514,
+            "1M_pop": "223214",
+            "total": 992623
+          },
+          "deaths": {
+            "new": "+6",
+            "1M_pop": "1915",
+            "total": 8515
+          },
+          "tests": {
+            "1M_pop": "1618381",
+            "total": 7196883
+          },
+          "day": "2022-11-19",
+          "time": "2022-11-19T08:30:06+00:00"
+        },
+        {
+          "continent": "Africa",
+          "country": "Tunisia",
+          "population": 12046656,
+          "cases": {
+            "new": "+97",
+            "active": null,
+            "critical": 44,
+            "recovered": null,
+            "1M_pop": "95196",
+            "total": 1146799
+          },
+          "deaths": {
+            "new": "+3",
+            "1M_pop": "2429",
+            "total": 29266
+          },
+          "tests": {
+            "1M_pop": "412711",
+            "total": 4971787
+          },
+          "day": "2022-11-19",
+          "time": "2022-11-19T08:30:06+00:00"
+        },
+        {
+          "continent": "Asia",
+          "country": "Iraq",
+          "population": 42164965,
+          "cases": {
+            "new": "+460",
+            "active": 648,
+            "critical": 21,
+            "recovered": 2436308,
+            "1M_pop": "58397",
+            "total": 2462317
+          },
+          "deaths": {
+            "new": null,
+            "1M_pop": "601",
+            "total": 25361
+          },
+          "tests": {
+            "1M_pop": "460670",
+            "total": 19424126
+          },
+          "day": "2022-11-19",
+          "time": "2022-11-19T08:30:06+00:00"
+        },
+        {
+          "continent": "Asia",
+          "country": "Georgia",
+          "population": 3968738,
+          "cases": {
+            "new": null,
+            "active": 130933,
+            "critical": null,
+            "recovered": 1637293,
+            "1M_pop": "449800",
+            "total": 1785138
+          },
+          "deaths": {
+            "new": null,
+            "1M_pop": "4261",
+            "total": 16912
+          },
+          "tests": {
+            "1M_pop": "4263340",
+            "total": 16920079
+          },
+          "day": "2022-11-19",
+          "time": "2022-11-19T08:30:06+00:00"
+        },
+        {
+          "continent": "Asia",
+          "country": "Jordan",
+          "population": 10300869,
+          "cases": {
+            "new": null,
+            "active": 1868,
+            "critical": 59,
+            "recovered": 1731007,
+            "1M_pop": "169597",
+            "total": 1746997
+          },
+          "deaths": {
+            "new": null,
+            "1M_pop": "1371",
+            "total": 14122
+          },
+          "tests": {
+            "1M_pop": "1669945",
+            "total": 17201885
+          },
+          "day": "2022-11-19",
+          "time": "2022-11-19T08:30:06+00:00"
+        },
+        {
+          "continent": "Europe",
+          "country": "Sweden",
+          "population": 10218971,
+          "cases": {
+            "new": null,
+            "active": 13953,
+            "critical": 18,
+            "recovered": 2587941,
+            "1M_pop": "256659",
+            "total": 2622790
+          },
+          "deaths": {
+            "new": null,
+            "1M_pop": "2045",
+            "total": 20896
+          },
+          "tests": {
+            "1M_pop": "1870306",
+            "total": 19112603
+          },
+          "day": "2022-11-19",
+          "time": "2022-11-19T08:30:06+00:00"
+        },
+        {
+          "continent": "Europe",
+          "country": "Serbia",
+          "population": 8653016,
+          "cases": {
+            "new": null,
+            "active": 12659,
+            "critical": 18,
+            "recovered": 2386776,
+            "1M_pop": "279298",
+            "total": 2416771
+          },
+          "deaths": {
+            "new": null,
+            "1M_pop": "2003",
+            "total": 17336
+          },
+          "tests": {
+            "1M_pop": "1332567",
+            "total": 11530724
+          },
+          "day": "2022-11-19",
+          "time": "2022-11-19T08:30:06+00:00"
+        },
+        {
+          "continent": "Asia",
+          "country": "Hong-Kong",
+          "population": 7604299,
+          "cases": {
+            "new": null,
+            "active": 199131,
+            "critical": 9,
+            "recovered": 1811177,
+            "1M_pop": "265756",
+            "total": 2020885
+          },
+          "deaths": {
+            "new": null,
+            "1M_pop": "1391",
+            "total": 10577
+          },
+          "tests": {
+            "1M_pop": "8716749",
+            "total": 66284763
+          },
+          "day": "2022-11-19",
+          "time": "2022-11-19T08:30:06+00:00"
+        },
+        {
+          "continent": "Europe",
+          "country": "Slovakia",
+          "population": 5460193,
+          "cases": {
+            "new": null,
+            "active": 1544,
+            "critical": 34,
+            "recovered": 1832591,
+            "1M_pop": "339702",
+            "total": 1854840
+          },
+          "deaths": {
+            "new": null,
+            "1M_pop": "3792",
+            "total": 20705
+          },
+          "tests": {
+            "1M_pop": "1345462",
+            "total": 7346480
+          },
+          "day": "2022-11-19",
+          "time": "2022-11-19T08:30:06+00:00"
+        },
+        {
+          "continent": "Europe",
+          "country": "Norway",
+          "population": 5511370,
+          "cases": {
+            "new": null,
+            "active": 2090,
+            "critical": 20,
+            "recovered": 1460913,
+            "1M_pop": "266237",
+            "total": 1467328
+          },
+          "deaths": {
+            "new": null,
+            "1M_pop": "785",
+            "total": 4325
+          },
+          "tests": {
+            "1M_pop": "1996315",
+            "total": 11002430
+          },
+          "day": "2022-11-19",
+          "time": "2022-11-19T08:30:06+00:00"
+        },
+        {
+          "continent": "Europe",
+          "country": "Finland",
+          "population": 5554960,
+          "cases": {
+            "new": null,
+            "active": 36572,
+            "critical": 21,
+            "recovered": 1340909,
+            "1M_pop": "249264",
+            "total": 1384654
+          },
+          "deaths": {
+            "new": null,
+            "1M_pop": "1291",
+            "total": 7173
+          },
+          "tests": {
+            "1M_pop": "2116460",
+            "total": 11756851
+          },
+          "day": "2022-11-19",
+          "time": "2022-11-19T08:30:06+00:00"
+        },
+        {
+          "continent": "South-America",
+          "country": "Ecuador",
+          "population": 18113361,
+          "cases": {
+            "new": null,
+            "active": 727,
+            "critical": 759,
+            "recovered": 972726,
+            "1M_pop": "55726",
+            "total": 1009388
+          },
+          "deaths": {
+            "new": null,
+            "1M_pop": "1984",
+            "total": 35935
+          },
+          "tests": {
+            "1M_pop": "170173",
+            "total": 3082403
+          },
+          "day": "2022-11-19",
+          "time": "2022-11-19T08:30:06+00:00"
+        },
+        {
+          "continent": "Asia",
+          "country": "Cyprus",
+          "population": 1223387,
+          "cases": {
+            "new": null,
+            "active": 10905,
+            "critical": 60,
+            "recovered": 597900,
+            "1M_pop": "498635",
+            "total": 610023
+          },
+          "deaths": {
+            "new": null,
+            "1M_pop": "996",
+            "total": 1218
+          },
+          "tests": {
+            "1M_pop": "7879860",
+            "total": 9640118
+          },
+          "day": "2022-11-19",
+          "time": "2022-11-19T08:30:06+00:00"
+        },
+        {
+          "continent": "South-America",
+          "country": "Uruguay",
+          "population": 3496016,
+          "cases": {
+            "new": "+816",
+            "active": 809,
+            "critical": 18,
+            "recovered": 983697,
+            "1M_pop": "283762",
+            "total": 992035
+          },
+          "deaths": {
+            "new": "+3",
+            "1M_pop": "2154",
+            "total": 7529
+          },
+          "tests": {
+            "1M_pop": "1749083",
+            "total": 6114822
+          },
+          "day": "2022-11-19",
+          "time": "2022-11-19T08:30:06+00:00"
+        },
+        {
+          "continent": "North-America",
+          "country": "Costa-Rica",
+          "population": 5182354,
+          "cases": {
+            "new": null,
+            "active": 273855,
+            "critical": 52,
+            "recovered": 860711,
+            "1M_pop": "220671",
+            "total": 1143597
+          },
+          "deaths": {
+            "new": null,
+            "1M_pop": "1743",
+            "total": 9031
+          },
+          "tests": {
+            "1M_pop": "899158",
+            "total": 4659757
+          },
+          "day": "2022-11-19",
+          "time": "2022-11-19T08:30:06+00:00"
+        },
+        {
+          "continent": "Europe",
+          "country": "Belarus",
+          "population": 9432800,
+          "cases": {
+            "new": null,
+            "active": 1327,
+            "critical": null,
+            "recovered": 985592,
+            "1M_pop": "105381",
+            "total": 994037
+          },
+          "deaths": {
+            "new": null,
+            "1M_pop": "755",
+            "total": 7118
+          },
+          "tests": {
+            "1M_pop": "1446722",
+            "total": 13646641
+          },
+          "day": "2022-11-19",
+          "time": "2022-11-19T08:30:06+00:00"
+        },
+        {
+          "continent": "Asia",
+          "country": "Pakistan",
+          "population": 229488994,
+          "cases": {
+            "new": "+42",
+            "active": 5549,
+            "critical": 47,
+            "recovered": 1538689,
+            "1M_pop": "6862",
+            "total": 1574868
+          },
+          "deaths": {
+            "new": null,
+            "1M_pop": "133",
+            "total": 30630
+          },
+          "tests": {
+            "1M_pop": "133213",
+            "total": 30570862
+          },
+          "day": "2022-11-19",
+          "time": "2022-11-19T08:30:06+00:00"
+        },
+        {
+          "continent": "Asia",
+          "country": "Kuwait",
+          "population": 4380326,
+          "cases": {
+            "new": "+286",
+            "active": 278,
+            "critical": 2,
+            "recovered": 659512,
+            "1M_pop": "151212",
+            "total": 662359
+          },
+          "deaths": {
+            "new": "+1",
+            "1M_pop": "586",
+            "total": 2569
+          },
+          "tests": {
+            "1M_pop": "1921405",
+            "total": 8416379
+          },
+          "day": "2022-11-19",
+          "time": "2022-11-19T08:30:06+00:00"
+        },
+        {
+          "continent": "North-America",
+          "country": "Dominican-Republic",
+          "population": 11056370,
+          "cases": {
+            "new": null,
+            "active": 250,
+            "critical": 4,
+            "recovered": 642571,
+            "1M_pop": "58537",
+            "total": 647205
+          },
+          "deaths": {
+            "new": null,
+            "1M_pop": "397",
+            "total": 4384
+          },
+          "tests": {
+            "1M_pop": "330765",
+            "total": 3657057
+          },
+          "day": "2022-11-19",
+          "time": "2022-11-19T08:30:06+00:00"
+        },
+        {
+          "continent": "Asia",
+          "country": "Kazakhstan",
+          "population": 19205043,
+          "cases": {
+            "new": "+94",
+            "active": 1650,
+            "critical": 24,
+            "recovered": 1380356,
+            "1M_pop": "72674",
+            "total": 1395699
+          },
+          "deaths": {
+            "new": null,
+            "1M_pop": "713",
+            "total": 13693
+          },
+          "tests": {
+            "1M_pop": "602707",
+            "total": 11575012
+          },
+          "day": "2022-11-19",
+          "time": "2022-11-19T08:30:06+00:00"
+        },
+        {
+          "continent": "Asia",
+          "country": "Palestine",
+          "population": 5345541,
+          "cases": {
+            "new": null,
+            "active": 450,
+            "critical": 17,
+            "recovered": 614962,
+            "1M_pop": "116137",
+            "total": 620816
+          },
+          "deaths": {
+            "new": null,
+            "1M_pop": "1011",
+            "total": 5404
+          },
+          "tests": {
+            "1M_pop": "575907",
+            "total": 3078533
+          },
+          "day": "2022-11-19",
+          "time": "2022-11-19T08:30:06+00:00"
+        },
+        {
+          "continent": "Europe",
+          "country": "Lithuania",
+          "population": 2661708,
+          "cases": {
+            "new": "+205",
+            "active": 4778,
+            "critical": 7,
+            "recovered": 1258582,
+            "1M_pop": "478179",
+            "total": 1272774
+          },
+          "deaths": {
+            "new": null,
+            "1M_pop": "3537",
+            "total": 9414
+          },
+          "tests": {
+            "1M_pop": "3848864",
+            "total": 10244553
+          },
+          "day": "2022-11-19",
+          "time": "2022-11-19T08:30:06+00:00"
+        },
+        {
+          "continent": "Asia",
+          "country": "Nepal",
+          "population": 30225582,
+          "cases": {
+            "new": "+8",
+            "active": 444,
+            "critical": null,
+            "recovered": 988383,
+            "1M_pop": "33113",
+            "total": 1000846
+          },
+          "deaths": {
+            "new": null,
+            "1M_pop": "398",
+            "total": 12019
+          },
+          "tests": {
+            "1M_pop": "197575",
+            "total": 5971814
+          },
+          "day": "2022-11-19",
+          "time": "2022-11-19T08:30:06+00:00"
+        },
+        {
+          "continent": "Oceania",
+          "country": "New-Zealand",
+          "population": 4898203,
+          "cases": {
+            "new": "+3079",
+            "active": 20509,
+            "critical": null,
+            "recovered": 1870321,
+            "1M_pop": "386678",
+            "total": 1894029
+          },
+          "deaths": {
+            "new": "+7",
+            "1M_pop": "653",
+            "total": 3199
+          },
+          "tests": {
+            "1M_pop": "1540170",
+            "total": 7544063
+          },
+          "day": "2022-11-19",
+          "time": "2022-11-19T08:30:06+00:00"
+        },
+        {
+          "continent": "Asia",
+          "country": "Bangladesh",
+          "population": 167885689,
+          "cases": {
+            "new": "+19",
+            "active": 22409,
+            "critical": 1331,
+            "recovered": 1984486,
+            "1M_pop": "12129",
+            "total": 2036325
+          },
+          "deaths": {
+            "new": null,
+            "1M_pop": "175",
+            "total": 29430
+          },
+          "tests": {
+            "1M_pop": "89692",
+            "total": 15057948
+          },
+          "day": "2022-11-19",
+          "time": "2022-11-19T08:30:06+00:00"
+        },
+        {
+          "continent": "Europe",
+          "country": "Latvia",
+          "population": 1848837,
+          "cases": {
+            "new": "+450",
+            "active": 5159,
+            "critical": 3,
+            "recovered": 947777,
+            "1M_pop": "518715",
+            "total": 959019
+          },
+          "deaths": {
+            "new": null,
+            "1M_pop": "3290",
+            "total": 6083
+          },
+          "tests": {
+            "1M_pop": "4189862",
+            "total": 7746372
+          },
+          "day": "2022-11-19",
+          "time": "2022-11-19T08:30:06+00:00"
+        },
+        {
+          "continent": "Europe",
+          "country": "Ireland",
+          "population": 5020199,
+          "cases": {
+            "new": null,
+            "active": 4737,
+            "critical": 7,
+            "recovered": 1662927,
+            "1M_pop": "333797",
+            "total": 1675725
+          },
+          "deaths": {
+            "new": null,
+            "1M_pop": "1606",
+            "total": 8061
+          },
+          "tests": {
+            "1M_pop": "2554213",
+            "total": 12822657
+          },
+          "day": "2022-11-19",
+          "time": "2022-11-19T08:30:06+00:00"
+        },
+        {
+          "continent": "Europe",
+          "country": "Slovenia",
+          "population": 2078034,
+          "cases": {
+            "new": "+806",
+            "active": 10539,
+            "critical": 20,
+            "recovered": 1228984,
+            "1M_pop": "599813",
+            "total": 1246432
+          },
+          "deaths": {
+            "new": null,
+            "1M_pop": "3325",
+            "total": 6909
+          },
+          "tests": {
+            "1M_pop": "1336830",
+            "total": 2777978
+          },
+          "day": "2022-11-19",
+          "time": "2022-11-19T08:30:06+00:00"
+        },
+        {
+          "continent": "Asia",
+          "country": "Azerbaijan",
+          "population": 10300205,
+          "cases": {
+            "new": "+40",
+            "active": 251,
+            "critical": null,
+            "recovered": 813669,
+            "1M_pop": "79988",
+            "total": 823889
+          },
+          "deaths": {
+            "new": "+1",
+            "1M_pop": "968",
+            "total": 9969
+          },
+          "tests": {
+            "1M_pop": "713894",
+            "total": 7353252
+          },
+          "day": "2022-11-19",
+          "time": "2022-11-19T08:30:06+00:00"
+        },
+        {
+          "continent": "Europe",
+          "country": "Denmark",
+          "population": 5834950,
+          "cases": {
+            "new": "+290",
+            "active": 4511,
+            "critical": 1,
+            "recovered": 3131280,
+            "1M_pop": "538695",
+            "total": 3143261
+          },
+          "deaths": {
+            "new": null,
+            "1M_pop": "1280",
+            "total": 7470
+          },
+          "tests": {
+            "1M_pop": "22064956",
+            "total": 128747914
+          },
+          "day": "2022-11-19",
+          "time": "2022-11-19T08:30:06+00:00"
+        },
+        {
+          "continent": "Asia",
+          "country": "Saudi-Arabia",
+          "population": 35844909,
+          "cases": {
+            "new": "+67",
+            "active": 3287,
+            "critical": 66,
+            "recovered": 812254,
+            "1M_pop": "23015",
+            "total": 824984
+          },
+          "deaths": {
+            "new": "+1",
+            "1M_pop": "263",
+            "total": 9443
+          },
+          "tests": {
+            "1M_pop": "1248672",
+            "total": 44758529
+          },
+          "day": "2022-11-19",
+          "time": "2022-11-19T08:30:06+00:00"
+        },
+        {
+          "continent": "North-America",
+          "country": "Cuba",
+          "population": 11305652,
+          "cases": {
+            "new": "+2",
+            "active": 73,
+            "critical": 23,
+            "recovered": 1102732,
+            "1M_pop": "98299",
+            "total": 1111335
+          },
+          "deaths": {
+            "new": null,
+            "1M_pop": "754",
+            "total": 8530
+          },
+          "tests": {
+            "1M_pop": "1254644",
+            "total": 14184566
+          },
+          "day": "2022-11-19",
+          "time": "2022-11-19T08:30:06+00:00"
+        },
+        {
+          "continent": "Africa",
+          "country": "Morocco",
+          "population": 37772756,
+          "cases": {
+            "new": "+138",
+            "active": 870,
+            "critical": 293,
+            "recovered": 1250024,
+            "1M_pop": "33547",
+            "total": 1267177
+          },
+          "deaths": {
+            "new": null,
+            "1M_pop": "431",
+            "total": 16283
+          },
+          "tests": {
+            "1M_pop": "336690",
+            "total": 12717702
+          },
+          "day": "2022-11-19",
+          "time": "2022-11-19T08:30:06+00:00"
+        },
+        {
+          "continent": "Asia",
+          "country": "Sri-Lanka",
+          "population": 21575842,
+          "cases": {
+            "new": "+16",
+            "active": 90,
+            "critical": null,
+            "recovered": 654616,
+            "1M_pop": "31123",
+            "total": 671497
+          },
+          "deaths": {
+            "new": "+3",
+            "1M_pop": "778",
+            "total": 16791
+          },
+          "tests": {
+            "1M_pop": "300619",
+            "total": 6486117
+          },
+          "day": "2022-11-19",
+          "time": "2022-11-19T08:30:06+00:00"
+        },
+        {
+          "continent": "Asia",
+          "country": "Myanmar",
+          "population": 55227143,
+          "cases": {
+            "new": "+47",
+            "active": 6205,
+            "critical": null,
+            "recovered": 607265,
+            "1M_pop": "11461",
+            "total": 632957
+          },
+          "deaths": {
+            "new": "+1",
+            "1M_pop": "353",
+            "total": 19487
+          },
+          "tests": {
+            "1M_pop": "173349",
+            "total": 9573544
+          },
+          "day": "2022-11-19",
+          "time": "2022-11-19T08:30:06+00:00"
+        },
+        {
+          "continent": "Asia",
+          "country": "Lebanon",
+          "population": 6684849,
+          "cases": {
+            "new": "+94",
+            "active": 121616,
+            "critical": 74,
+            "recovered": 1087587,
+            "1M_pop": "182491",
+            "total": 1219928
+          },
+          "deaths": {
+            "new": "+1",
+            "1M_pop": "1604",
+            "total": 10725
+          },
+          "tests": {
+            "1M_pop": "717380",
+            "total": 4795578
+          },
+          "day": "2022-11-19",
+          "time": "2022-11-19T08:30:06+00:00"
+        },
+        {
+          "continent": "Europe",
+          "country": "Hungary",
+          "population": 9606259,
+          "cases": {
+            "new": "+4431",
+            "active": 18533,
+            "critical": 10,
+            "recovered": 2091278,
+            "1M_pop": "224645",
+            "total": 2157995
+          },
+          "deaths": {
+            "new": "+73",
+            "1M_pop": "5016",
+            "total": 48184
+          },
+          "tests": {
+            "1M_pop": "1186160",
+            "total": 11394556
+          },
+          "day": "2022-11-19",
+          "time": "2022-11-19T08:30:06+00:00"
+        },
+        {
+          "continent": "Asia",
+          "country": "Singapore",
+          "population": 5943546,
+          "cases": {
+            "new": "+1908",
+            "active": 76379,
+            "critical": 8,
+            "recovered": 2072624,
+            "1M_pop": "361855",
+            "total": 2150702
+          },
+          "deaths": {
+            "new": null,
+            "1M_pop": "286",
+            "total": 1699
+          },
+          "tests": {
+            "1M_pop": "4142731",
+            "total": 24622510
+          },
+          "day": "2022-11-19",
+          "time": "2022-11-19T08:30:06+00:00"
+        },
+        {
+          "continent": "Asia",
+          "country": "Bahrain",
+          "population": 1783983,
+          "cases": {
+            "new": "+138",
+            "active": 1716,
+            "critical": 4,
+            "recovered": 691354,
+            "1M_pop": "389355",
+            "total": 694602
+          },
+          "deaths": {
+            "new": null,
+            "1M_pop": "859",
+            "total": 1532
+          },
+          "tests": {
+            "1M_pop": "5909477",
+            "total": 10542406
+          },
+          "day": "2022-11-19",
+          "time": "2022-11-19T08:30:06+00:00"
+        },
+        {
+          "continent": "South-America",
+          "country": "Paraguay",
+          "population": 7305843,
+          "cases": {
+            "new": "+22",
+            "active": 143,
+            "critical": 7,
+            "recovered": 698317,
+            "1M_pop": "98287",
+            "total": 718071
+          },
+          "deaths": {
+            "new": "+3",
+            "1M_pop": "2684",
+            "total": 19611
+          },
+          "tests": {
+            "1M_pop": "363751",
+            "total": 2657506
+          },
+          "day": "2022-11-19",
+          "time": "2022-11-19T08:30:06+00:00"
+        },
+        {
+          "continent": "North-America",
+          "country": "Guatemala",
+          "population": 18584039,
+          "cases": {
+            "new": "+629",
+            "active": 1859,
+            "critical": 5,
+            "recovered": 1125904,
+            "1M_pop": "61757",
+            "total": 1147699
+          },
+          "deaths": {
+            "new": "+2",
+            "1M_pop": "1073",
+            "total": 19936
+          },
+          "tests": {
+            "1M_pop": "335018",
+            "total": 6225995
+          },
+          "day": "2022-11-19",
+          "time": "2022-11-19T08:30:06+00:00"
+        },
+        {
+          "continent": "Europe",
+          "country": "Bulgaria",
+          "population": 6844597,
+          "cases": {
+            "new": "+275",
+            "active": 7502,
+            "critical": 57,
+            "recovered": 1239615,
+            "1M_pop": "187756",
+            "total": 1285113
+          },
+          "deaths": {
+            "new": "+8",
+            "1M_pop": "5551",
+            "total": 37996
+          },
+          "tests": {
+            "1M_pop": "1575332",
+            "total": 10782512
+          },
+          "day": "2022-11-19",
+          "time": "2022-11-19T08:30:06+00:00"
+        },
+        {
+          "continent": "Europe",
+          "country": "Croatia",
+          "population": 4059286,
+          "cases": {
+            "new": "+231",
+            "active": 1750,
+            "critical": 14,
+            "recovered": 1232195,
+            "1M_pop": "308231",
+            "total": 1251199
+          },
+          "deaths": {
+            "new": "+5",
+            "1M_pop": "4251",
+            "total": 17254
+          },
+          "tests": {
+            "1M_pop": "1315610",
+            "total": 5340439
+          },
+          "day": "2022-11-19",
+          "time": "2022-11-19T08:30:06+00:00"
+        },
+        {
+          "continent": "South-America",
+          "country": "Bolivia",
+          "population": 11992656,
+          "cases": {
+            "new": "+50",
+            "active": 11710,
+            "critical": 220,
+            "recovered": 1076110,
+            "1M_pop": "92562",
+            "total": 1110064
+          },
+          "deaths": {
+            "new": null,
+            "1M_pop": "1855",
+            "total": 22244
+          },
+          "tests": {
+            "1M_pop": "225590",
+            "total": 2705422
+          },
+          "day": "2022-11-19",
+          "time": "2022-11-19T08:30:06+00:00"
+        },
+        {
+          "continent": "Asia",
+          "country": "UAE",
+          "population": 10081785,
+          "cases": {
+            "new": "+225",
+            "active": 18531,
+            "critical": null,
+            "recovered": 1021220,
+            "1M_pop": "103365",
+            "total": 1042099
+          },
+          "deaths": {
+            "new": null,
+            "1M_pop": "233",
+            "total": 2348
+          },
+          "tests": {
+            "1M_pop": "19499513",
+            "total": 196589893
+          },
+          "day": "2022-11-19",
+          "time": "2022-11-19T08:30:06+00:00"
+        },
+        {
+          "continent": "Asia",
+          "country": "Mongolia",
+          "population": 3378078,
+          "cases": {
+            "new": "+441",
+            "active": 3875,
+            "critical": 192,
+            "recovered": 983266,
+            "1M_pop": "292865",
+            "total": 989320
+          },
+          "deaths": {
+            "new": null,
+            "1M_pop": "645",
+            "total": 2179
+          },
+          "tests": {
+            "1M_pop": "1193000",
+            "total": 4030048
+          },
+          "day": "2022-11-19",
+          "time": "2022-11-19T08:30:06+00:00"
+        },
+        {
+          "continent": "Africa",
+          "country": "Africa",
+          "population": null,
+          "cases": {
+            "new": "+1862",
+            "active": 426176,
+            "critical": 844,
+            "recovered": 12011243,
+            "1M_pop": null,
+            "total": 12695411
+          },
+          "deaths": {
+            "new": "+8",
+            "1M_pop": null,
+            "total": 257992
+          },
+          "tests": {
+            "1M_pop": null,
+            "total": null
+          },
+          "day": "2022-11-19",
+          "time": "2022-11-19T08:30:05+00:00"
+        },
+        {
+          "continent": "Asia",
+          "country": "DPRK",
+          "population": 25990679,
+          "cases": {
+            "new": null,
+            "active": 0,
+            "critical": null,
+            "recovered": 4772739,
+            "1M_pop": "183636",
+            "total": 4772813
+          },
+          "deaths": {
+            "new": null,
+            "1M_pop": "3",
+            "total": 74
+          },
+          "tests": {
+            "1M_pop": null,
+            "total": null
+          },
+          "day": "2022-11-19",
+          "time": "2022-11-19T08:30:05+00:00"
+        },
+        {
+          "continent": "Oceania",
+          "country": "Oceania",
+          "population": null,
+          "cases": {
+            "new": "+2634",
+            "active": 285960,
+            "critical": 119,
+            "recovered": 12533233,
+            "1M_pop": null,
+            "total": 12841190
+          },
+          "deaths": {
+            "new": "+13",
+            "1M_pop": null,
+            "total": 21997
+          },
+          "tests": {
+            "1M_pop": null,
+            "total": null
+          },
+          "day": "2022-11-19",
+          "time": "2022-11-19T08:30:05+00:00"
+        },
+        {
+          "continent": "North-America",
+          "country": "USA",
+          "population": 334805269,
+          "cases": {
+            "new": null,
+            "active": 1345369,
+            "critical": 2803,
+            "recovered": 97708517,
+            "1M_pop": "299148",
+            "total": 100156325
+          },
+          "deaths": {
+            "new": null,
+            "1M_pop": "3293",
+            "total": 1102439
+          },
+          "tests": {
+            "1M_pop": "3393789",
+            "total": 1136258319
+          },
+          "day": "2022-11-19",
+          "time": "2022-11-19T08:30:05+00:00"
+        },
+        {
+          "continent": "Europe",
+          "country": "France",
+          "population": 65584518,
+          "cases": {
+            "new": null,
+            "active": 494386,
+            "critical": 869,
+            "recovered": 36634998,
+            "1M_pop": "568542",
+            "total": 37287547
+          },
+          "deaths": {
+            "new": null,
+            "1M_pop": "2412",
+            "total": 158163
+          },
+          "tests": {
+            "1M_pop": "4139547",
+            "total": 271490188
+          },
+          "day": "2022-11-19",
+          "time": "2022-11-19T08:30:05+00:00"
+        },
+        {
+          "continent": "Asia",
+          "country": "S-Korea",
+          "population": 51329899,
+          "cases": {
+            "new": "+50435",
+            "active": 897022,
+            "critical": 419,
+            "recovered": 25585742,
+            "1M_pop": "516517",
+            "total": 26512754
+          },
+          "deaths": {
+            "new": "+65",
+            "1M_pop": "584",
+            "total": 29990
+          },
+          "tests": {
+            "1M_pop": "307892",
+            "total": 15804065
+          },
+          "day": "2022-11-19",
+          "time": "2022-11-19T08:30:05+00:00"
+        },
+        {
+          "continent": "Oceania",
+          "country": "Australia",
+          "population": 26068792,
+          "cases": {
+            "new": "+2634",
+            "active": 175202,
+            "critical": 64,
+            "recovered": 10364130,
+            "1M_pop": "404902",
+            "total": 10555312
+          },
+          "deaths": {
+            "new": "+13",
+            "1M_pop": "613",
+            "total": 15980
+          },
+          "tests": {
+            "1M_pop": "3024116",
+            "total": 78835048
+          },
+          "day": "2022-11-19",
+          "time": "2022-11-19T08:30:05+00:00"
+        },
+        {
+          "continent": "North-America",
+          "country": "Mexico",
+          "population": 131562772,
+          "cases": {
+            "new": "+2509",
+            "active": 398045,
+            "critical": 4798,
+            "recovered": 6390444,
+            "1M_pop": "54111",
+            "total": 7118933
+          },
+          "deaths": {
+            "new": "+14",
+            "1M_pop": "2512",
+            "total": 330444
+          },
+          "tests": {
+            "1M_pop": "141949",
+            "total": 18675146
+          },
+          "day": "2022-11-19",
+          "time": "2022-11-19T08:30:05+00:00"
+        },
+        {
+          "continent": "Europe",
+          "country": "Netherlands",
+          "population": 17211447,
+          "cases": {
+            "new": null,
+            "active": 43075,
+            "critical": 37,
+            "recovered": 8468177,
+            "1M_pop": "495841",
+            "total": 8534144
+          },
+          "deaths": {
+            "new": null,
+            "1M_pop": "1330",
+            "total": 22892
+          },
+          "tests": {
+            "1M_pop": "1509718",
+            "total": 25984435
+          },
+          "day": "2022-11-19",
+          "time": "2022-11-19T08:30:05+00:00"
+        },
+        {
+          "continent": "Europe",
+          "country": "Portugal",
+          "population": 10140570,
+          "cases": {
+            "new": null,
+            "active": 23535,
+            "critical": 61,
+            "recovered": 5488178,
+            "1M_pop": "546035",
+            "total": 5537108
+          },
+          "deaths": {
+            "new": null,
+            "1M_pop": "2504",
+            "total": 25395
+          },
+          "tests": {
+            "1M_pop": "4443531",
+            "total": 45059939
+          },
+          "day": "2022-11-19",
+          "time": "2022-11-19T08:30:05+00:00"
+        },
+        {
+          "continent": "Europe",
+          "country": "Ukraine",
+          "population": 43192122,
+          "cases": {
+            "new": null,
+            "active": 26262,
+            "critical": null,
+            "recovered": 5192871,
+            "1M_pop": "123391",
+            "total": 5329536
+          },
+          "deaths": {
+            "new": null,
+            "1M_pop": "2556",
+            "total": 110403
+          },
+          "tests": {
+            "1M_pop": "754855",
+            "total": 32603805
+          },
+          "day": "2022-11-19",
+          "time": "2022-11-19T08:30:05+00:00"
+        },
+        {
+          "continent": "Europe",
+          "country": "Greece",
+          "population": 10316637,
+          "cases": {
+            "new": null,
+            "active": 56194,
+            "critical": 115,
+            "recovered": 5216264,
+            "1M_pop": "514362",
+            "total": 5306482
+          },
+          "deaths": {
+            "new": null,
+            "1M_pop": "3298",
+            "total": 34024
+          },
+          "tests": {
+            "1M_pop": "9592513",
+            "total": 98962476
+          },
+          "day": "2022-11-19",
+          "time": "2022-11-19T08:30:05+00:00"
+        },
+        {
+          "continent": "North-America",
+          "country": "Canada",
+          "population": 38388419,
+          "cases": {
+            "new": null,
+            "active": 62352,
+            "critical": 99,
+            "recovered": 4267600,
+            "1M_pop": "114021",
+            "total": 4377070
+          },
+          "deaths": {
+            "new": null,
+            "1M_pop": "1227",
+            "total": 47118
+          },
+          "tests": {
+            "1M_pop": "1720403",
+            "total": 66043555
+          },
+          "day": "2022-11-19",
+          "time": "2022-11-19T08:30:05+00:00"
+        },
+        {
+          "continent": "Europe",
+          "country": "Switzerland",
+          "population": 8773637,
+          "cases": {
+            "new": null,
+            "active": 87195,
+            "critical": 59,
+            "recovered": 4175345,
+            "1M_pop": "487464",
+            "total": 4276830
+          },
+          "deaths": {
+            "new": null,
+            "1M_pop": "1629",
+            "total": 14290
+          },
+          "tests": {
+            "1M_pop": "2605750",
+            "total": 22861905
+          },
+          "day": "2022-11-19",
+          "time": "2022-11-19T08:30:05+00:00"
+        },
+        {
+          "continent": "Europe",
+          "country": "Romania",
+          "population": 19031335,
+          "cases": {
+            "new": null,
+            "active": 5427,
+            "critical": 92,
+            "recovered": 3221065,
+            "1M_pop": "173069",
+            "total": 3293742
+          },
+          "deaths": {
+            "new": null,
+            "1M_pop": "3534",
+            "total": 67250
+          },
+          "tests": {
+            "1M_pop": "1348522",
+            "total": 25664165
+          },
+          "day": "2022-11-19",
+          "time": "2022-11-19T08:30:05+00:00"
+        },
+        {
+          "continent": "North-America",
+          "country": "North-America",
+          "population": null,
+          "cases": {
+            "new": null,
+            "active": 2947311,
+            "critical": 7986,
+            "recovered": 114166872,
+            "1M_pop": null,
+            "total": 118674729
+          },
+          "deaths": {
+            "new": null,
+            "1M_pop": null,
+            "total": 1560546
+          },
+          "tests": {
+            "1M_pop": null,
+            "total": null
+          },
+          "day": "2022-11-19",
+          "time": "2022-11-19T08:30:05+00:00"
+        },
+        {
+          "continent": "Europe",
+          "country": "UK",
+          "population": 68497907,
+          "cases": {
+            "new": null,
+            "active": 96763,
+            "critical": 146,
+            "recovered": 23684633,
+            "1M_pop": "350049",
+            "total": 23977637
+          },
+          "deaths": {
+            "new": null,
+            "1M_pop": "2865",
+            "total": 196241
+          },
+          "tests": {
+            "1M_pop": "7628357",
+            "total": 522526476
+          },
+          "day": "2022-11-19",
+          "time": "2022-11-19T08:30:05+00:00"
+        },
+        {
+          "continent": "Europe",
+          "country": "Germany",
+          "population": 83883596,
+          "cases": {
+            "new": null,
+            "active": 701392,
+            "critical": 1406,
+            "recovered": 35347400,
+            "1M_pop": "431615",
+            "total": 36205405
+          },
+          "deaths": {
+            "new": null,
+            "1M_pop": "1867",
+            "total": 156613
+          },
+          "tests": {
+            "1M_pop": "1458359",
+            "total": 122332384
+          },
+          "day": "2022-11-19",
+          "time": "2022-11-19T08:30:05+00:00"
+        },
+        {
+          "continent": "South-America",
+          "country": "South-America",
+          "population": null,
+          "cases": {
+            "new": null,
+            "active": 385038,
+            "critical": 10109,
+            "recovered": 63030103,
+            "1M_pop": null,
+            "total": 64749578
+          },
+          "deaths": {
+            "new": null,
+            "1M_pop": null,
+            "total": 1334437
+          },
+          "tests": {
+            "1M_pop": null,
+            "total": null
+          },
+          "day": "2022-11-19",
+          "time": "2022-11-19T08:30:05+00:00"
+        },
+        {
+          "continent": "South-America",
+          "country": "Peru",
+          "population": 33684208,
+          "cases": {
+            "new": null,
+            "active": 22563,
+            "critical": 42,
+            "recovered": 3944399,
+            "1M_pop": "124218",
+            "total": 4184191
+          },
+          "deaths": {
+            "new": null,
+            "1M_pop": "6449",
+            "total": 217229
+          },
+          "tests": {
+            "1M_pop": "1072419",
+            "total": 36123581
+          },
+          "day": "2022-11-19",
+          "time": "2022-11-19T08:30:05+00:00"
+        },
+        {
+          "continent": "Asia",
+          "country": "Turkey",
+          "population": 85561976,
+          "cases": {
+            "new": null,
+            "active": 0,
+            "critical": null,
+            "recovered": 16875402,
+            "1M_pop": "198414",
+            "total": 16976729
+          },
+          "deaths": {
+            "new": null,
+            "1M_pop": "1184",
+            "total": 101327
+          },
+          "tests": {
+            "1M_pop": "1902052",
+            "total": 162743369
+          },
+          "day": "2022-11-19",
+          "time": "2022-11-19T08:30:05+00:00"
+        },
+        {
+          "continent": "Asia",
+          "country": "Taiwan",
+          "population": 23888595,
+          "cases": {
+            "new": "+16571",
+            "active": 456639,
+            "critical": null,
+            "recovered": 7676244,
+            "1M_pop": "341033",
+            "total": 8146790
+          },
+          "deaths": {
+            "new": "+59",
+            "1M_pop": "582",
+            "total": 13907
+          },
+          "tests": {
+            "1M_pop": "1184371",
+            "total": 28292960
+          },
+          "day": "2022-11-19",
+          "time": "2022-11-19T08:30:05+00:00"
+        },
+        {
+          "continent": "Asia",
+          "country": "Asia",
+          "population": null,
+          "cases": {
+            "new": "+159182",
+            "active": 6390687,
+            "critical": 9426,
+            "recovered": 189125368,
+            "1M_pop": null,
+            "total": 197010476
+          },
+          "deaths": {
+            "new": "+225",
+            "1M_pop": null,
+            "total": 1494421
+          },
+          "tests": {
+            "1M_pop": null,
+            "total": null
+          },
+          "day": "2022-11-19",
+          "time": "2022-11-19T08:30:05+00:00"
+        },
+        {
+          "continent": "Asia",
+          "country": "Japan",
+          "population": 125584838,
+          "cases": {
+            "new": "+89887",
+            "active": 3038941,
+            "critical": 261,
+            "recovered": 20606963,
+            "1M_pop": "188670",
+            "total": 23694063
+          },
+          "deaths": {
+            "new": "+101",
+            "1M_pop": "383",
+            "total": 48159
+          },
+          "tests": {
+            "1M_pop": "634797",
+            "total": 79720829
+          },
+          "day": "2022-11-19",
+          "time": "2022-11-19T08:30:05+00:00"
+        },
+        {
+          "continent": "Europe",
+          "country": "Czechia",
+          "population": 10736784,
+          "cases": {
+            "new": "+439",
+            "active": 2870,
+            "critical": 22,
+            "recovered": 4123196,
+            "1M_pop": "388181",
+            "total": 4167817
+          },
+          "deaths": {
+            "new": "+1",
+            "1M_pop": "3889",
+            "total": 41751
+          },
+          "tests": {
+            "1M_pop": "5268319",
+            "total": 56564801
+          },
+          "day": "2022-11-19",
+          "time": "2022-11-19T08:30:05+00:00"
+        },
+        {
+          "continent": "Europe",
+          "country": "Europe",
+          "population": null,
+          "cases": {
+            "new": "+5884",
+            "active": 3727239,
+            "critical": 7648,
+            "recovered": 231065410,
+            "1M_pop": null,
+            "total": 236748419
+          },
+          "deaths": {
+            "new": "+63",
+            "1M_pop": null,
+            "total": 1955770
+          },
+          "tests": {
+            "1M_pop": null,
+            "total": null
+          },
+          "day": "2022-11-19",
+          "time": "2022-11-19T08:30:05+00:00"
+        },
+        {
+          "continent": "Europe",
+          "country": "Belgium",
+          "population": 11668278,
+          "cases": {
+            "new": null,
+            "active": 27448,
+            "critical": 57,
+            "recovered": 4566717,
+            "1M_pop": "396561",
+            "total": 4627186
+          },
+          "deaths": {
+            "new": null,
+            "1M_pop": "2830",
+            "total": 33021
+          },
+          "tests": {
+            "1M_pop": "3089095",
+            "total": 36044419
+          },
+          "day": "2022-11-19",
+          "time": "2022-11-19T08:30:05+00:00"
+        },
+        {
+          "continent": "All",
+          "country": "All",
+          "population": null,
+          "cases": {
+            "new": "+167700",
+            "active": 14162411,
+            "critical": 36132,
+            "recovered": 621932935,
+            "1M_pop": "82455",
+            "total": 642720524
+          },
+          "deaths": {
+            "new": "+301",
+            "1M_pop": "849.9",
+            "total": 6625178
+          },
+          "tests": {
+            "1M_pop": null,
+            "total": null
+          },
+          "day": "2022-11-19",
+          "time": "2022-11-19T08:30:05+00:00"
+        },
+        {
+          "continent": "Europe",
+          "country": "Russia",
+          "population": 145805947,
+          "cases": {
+            "new": "+5445",
+            "active": 200136,
+            "critical": 2300,
+            "recovered": 20939481,
+            "1M_pop": "147669",
+            "total": 21531012
+          },
+          "deaths": {
+            "new": "+62",
+            "1M_pop": "2684",
+            "total": 391395
+          },
+          "tests": {
+            "1M_pop": "1875095",
+            "total": 273400000
+          },
+          "day": "2022-11-19",
+          "time": "2022-11-19T08:30:05+00:00"
+        },
+        {
+          "continent": "South-America",
+          "country": "Argentina",
+          "population": 46010234,
+          "cases": {
+            "new": null,
+            "active": 4172,
+            "critical": 236,
+            "recovered": 9587535,
+            "1M_pop": "211295",
+            "total": 9721718
+          },
+          "deaths": {
+            "new": null,
+            "1M_pop": "2826",
+            "total": 130011
+          },
+          "tests": {
+            "1M_pop": "776264",
+            "total": 35716069
+          },
+          "day": "2022-11-19",
+          "time": "2022-11-19T08:30:05+00:00"
+        },
+        {
+          "continent": "Europe",
+          "country": "Poland",
+          "population": 37739785,
+          "cases": {
+            "new": "+359",
+            "active": 894173,
+            "critical": 1530,
+            "recovered": 5335940,
+            "1M_pop": "168215",
+            "total": 6348380
+          },
+          "deaths": {
+            "new": "+15",
+            "1M_pop": "3134",
+            "total": 118267
+          },
+          "tests": {
+            "1M_pop": "999891",
+            "total": 37735682
+          },
+          "day": "2022-11-19",
+          "time": "2022-11-19T08:30:05+00:00"
+        },
+        {
+          "continent": "Asia",
+          "country": "Indonesia",
+          "population": 279134505,
+          "cases": {
+            "new": "+6699",
+            "active": 61284,
+            "critical": 2771,
+            "recovered": 6376205,
+            "1M_pop": "23633",
+            "total": 6596812
+          },
+          "deaths": {
+            "new": "+32",
+            "1M_pop": "571",
+            "total": 159323
+          },
+          "tests": {
+            "1M_pop": "400024",
+            "total": 111660489
+          },
+          "day": "2022-11-19",
+          "time": "2022-11-19T08:30:05+00:00"
+        },
+        {
+          "continent": "Asia",
+          "country": "Thailand",
+          "population": 70078203,
+          "cases": {
+            "new": "+454",
+            "active": 15827,
+            "critical": 1496,
+            "recovered": 4649509,
+            "1M_pop": "67045",
+            "total": 4698373
+          },
+          "deaths": {
+            "new": "+6",
+            "1M_pop": "471",
+            "total": 33037
+          },
+          "tests": {
+            "1M_pop": "246450",
+            "total": 17270775
+          },
+          "day": "2022-11-19",
+          "time": "2022-11-19T08:30:05+00:00"
+        },
+        {
+          "continent": "Asia",
+          "country": "Vietnam",
+          "population": 98953541,
+          "cases": {
+            "new": "+435",
+            "active": 861118,
+            "critical": 66,
+            "recovered": 10606633,
+            "1M_pop": "116326",
+            "total": 11510919
+          },
+          "deaths": {
+            "new": "+1",
+            "1M_pop": "436",
+            "total": 43168
+          },
+          "tests": {
+            "1M_pop": "867342",
+            "total": 85826548
+          },
+          "day": "2022-11-19",
+          "time": "2022-11-19T08:30:05+00:00"
+        },
+        {
+          "continent": "Asia",
+          "country": "Philippines",
+          "population": 112508994,
+          "cases": {
+            "new": "+1774",
+            "active": 19267,
+            "critical": 157,
+            "recovered": 3940073,
+            "1M_pop": "35764",
+            "total": 4023798
+          },
+          "deaths": {
+            "new": "+17",
+            "1M_pop": "573",
+            "total": 64458
+          },
+          "tests": {
+            "1M_pop": "297972",
+            "total": 33524585
+          },
+          "day": "2022-11-19",
+          "time": "2022-11-19T08:30:05+00:00"
+        },
+        {
+          "continent": "Asia",
+          "country": "Iran",
+          "population": 86022837,
+          "cases": {
+            "new": "+47",
+            "active": 80012,
+            "critical": 83,
+            "recovered": 7334579,
+            "1M_pop": "87874",
+            "total": 7559211
+          },
+          "deaths": {
+            "new": "+3",
+            "1M_pop": "1681",
+            "total": 144620
+          },
+          "tests": {
+            "1M_pop": "632632",
+            "total": 54420785
+          },
+          "day": "2022-11-19",
+          "time": "2022-11-19T08:30:05+00:00"
+        },
+        {
+          "continent": "Europe",
+          "country": "Austria",
+          "population": 9066710,
+          "cases": {
+            "new": "+4110",
+            "active": 40411,
+            "critical": 47,
+            "recovered": 5449374,
+            "1M_pop": "607819",
+            "total": 5510919
+          },
+          "deaths": {
+            "new": null,
+            "1M_pop": "2331",
+            "total": 21134
+          },
+          "tests": {
+            "1M_pop": "22281785",
+            "total": 202022479
+          },
+          "day": "2022-11-19",
+          "time": "2022-11-19T08:30:05+00:00"
+        },
+        {
+          "continent": "South-America",
+          "country": "Chile",
+          "population": 19250195,
+          "cases": {
+            "new": "+6457",
+            "active": 16811,
+            "critical": 129,
+            "recovered": 4786757,
+            "1M_pop": "252761",
+            "total": 4865698
+          },
+          "deaths": {
+            "new": "+28",
+            "1M_pop": "3227",
+            "total": 62130
+          },
+          "tests": {
+            "1M_pop": "2427693",
+            "total": 46733565
+          },
+          "day": "2022-11-19",
+          "time": "2022-11-19T08:30:05+00:00"
+        },
+        {
+          "continent": "Africa",
+          "country": "South-Africa",
+          "population": 60756135,
+          "cases": {
+            "new": "+598",
+            "active": 22344,
+            "critical": 192,
+            "recovered": 3912506,
+            "1M_pop": "66450",
+            "total": 4037221
+          },
+          "deaths": {
+            "new": null,
+            "1M_pop": "1685",
+            "total": 102371
+          },
+          "tests": {
+            "1M_pop": "435726",
+            "total": 26473049
+          },
+          "day": "2022-11-19",
+          "time": "2022-11-19T08:30:05+00:00"
+        },
+        {
+          "continent": "Europe",
+          "country": "Italy",
+          "population": 60262770,
+          "cases": {
+            "new": null,
+            "active": 452895,
+            "critical": 247,
+            "recovered": 23398125,
+            "1M_pop": "398779",
+            "total": 24031538
+          },
+          "deaths": {
+            "new": null,
+            "1M_pop": "2996",
+            "total": 180518
+          },
+          "tests": {
+            "1M_pop": "4244418",
+            "total": 255780377
+          },
+          "day": "2022-11-19",
+          "time": "2022-11-19T08:30:05+00:00"
+        },
+        {
+          "continent": "Asia",
+          "country": "India",
+          "population": 1406631776,
+          "cases": {
+            "new": "+576",
+            "active": 8594,
+            "critical": 698,
+            "recovered": 44130380,
+            "1M_pop": "31756",
+            "total": 44669527
+          },
+          "deaths": {
+            "new": null,
+            "1M_pop": "377",
+            "total": 530553
+          },
+          "tests": {
+            "1M_pop": "642212",
+            "total": 903356300
+          },
+          "day": "2022-11-19",
+          "time": "2022-11-19T08:30:05+00:00"
+        },
+        {
+          "continent": "Europe",
+          "country": "Spain",
+          "population": 46719142,
+          "cases": {
+            "new": "+3168",
+            "active": 100232,
+            "critical": 339,
+            "recovered": 13357848,
+            "1M_pop": "290539",
+            "total": 13573721
+          },
+          "deaths": {
+            "new": "+38",
+            "1M_pop": "2475",
+            "total": 115641
+          },
+          "tests": {
+            "1M_pop": "10082298",
+            "total": 471036328
+          },
+          "day": "2022-11-19",
+          "time": "2022-11-19T08:30:05+00:00"
+        },
+        {
+          "continent": "Asia",
+          "country": "Malaysia",
+          "population": 33181072,
+          "cases": {
+            "new": "+3037",
+            "active": 27711,
+            "critical": 106,
+            "recovered": 4898917,
+            "1M_pop": "149580",
+            "total": 4963216
+          },
+          "deaths": {
+            "new": "+5",
+            "1M_pop": "1103",
+            "total": 36588
+          },
+          "tests": {
+            "1M_pop": "1990732",
+            "total": 66054632
+          },
+          "day": "2022-11-19",
+          "time": "2022-11-19T08:30:05+00:00"
+        },
+        {
+          "continent": "Asia",
+          "country": "Israel",
+          "population": 9326000,
+          "cases": {
+            "new": "+2073",
+            "active": 9718,
+            "critical": 36,
+            "recovered": 4682490,
+            "1M_pop": "504398",
+            "total": 4704018
+          },
+          "deaths": {
+            "new": null,
+            "1M_pop": "1266",
+            "total": 11810
+          },
+          "tests": {
+            "1M_pop": "4436346",
+            "total": 41373364
+          },
+          "day": "2022-11-19",
+          "time": "2022-11-19T08:30:05+00:00"
+        },
+        {
+          "continent": "South-America",
+          "country": "Brazil",
+          "population": 215353593,
+          "cases": {
+            "new": "+30438",
+            "active": 182989,
+            "critical": 8318,
+            "recovered": 34167667,
+            "1M_pop": "162707",
+            "total": 35039614
+          },
+          "deaths": {
+            "new": "+72",
+            "1M_pop": "3199",
+            "total": 688958
+          },
+          "tests": {
+            "1M_pop": "296146",
+            "total": 63776166
+          },
+          "day": "2022-11-19",
+          "time": "2022-11-19T08:30:05+00:00"
+        },
+        {
+          "continent": "South-America",
+          "country": "Colombia",
+          "population": 51512762,
+          "cases": {
+            "new": "+1298",
+            "active": 31048,
+            "critical": 342,
+            "recovered": 6139728,
+            "1M_pop": "122545",
+            "total": 6312657
+          },
+          "deaths": {
+            "new": "+19",
+            "1M_pop": "2754",
+            "total": 141881
+          },
+          "tests": {
+            "1M_pop": "714999",
+            "total": 36831583
+          },
+          "day": "2022-11-19",
+          "time": "2022-11-19T08:30:05+00:00"
+        },
+        {
+          "continent": null,
+          "country": "MS-Zaandam-",
+          "population": null,
+          "cases": {
+            "new": "+7",
+            "active": 7,
+            "critical": null,
+            "recovered": null,
+            "1M_pop": null,
+            "total": 9
+          },
+          "deaths": {
+            "new": "+2",
+            "1M_pop": null,
+            "total": 2
+          },
+          "tests": {
+            "1M_pop": null,
+            "total": null
+          },
+          "day": "2020-04-09",
+          "time": "2020-04-09T15:45:06+00:00"
+        },
+        {
+          "continent": null,
+          "country": "Diamond-Princess-",
+          "population": null,
+          "cases": {
+            "new": null,
+            "active": 82,
+            "critical": 10,
+            "recovered": 619,
+            "1M_pop": null,
+            "total": 712
+          },
+          "deaths": {
+            "new": null,
+            "1M_pop": null,
+            "total": 11
+          },
+          "tests": {
+            "1M_pop": null,
+            "total": null
+          },
+          "day": "2020-04-09",
+          "time": "2020-04-09T15:45:06+00:00"
+        },
+        {
+          "continent": null,
+          "country": "US-Virgin-Islands",
+          "population": null,
+          "cases": {
+            "new": "+11",
+            "active": 17,
+            "critical": null,
+            "recovered": null,
+            "1M_pop": "163",
+            "total": 17
+          },
+          "deaths": {
+            "new": null,
+            "1M_pop": null,
+            "total": null
+          },
+          "tests": {
+            "1M_pop": null,
+            "total": null
+          },
+          "day": "2020-03-25",
+          "time": "2020-03-25T06:00:07+00:00"
+        },
+        {
+          "continent": null,
+          "country": "Puerto-Rico",
+          "population": null,
+          "cases": {
+            "new": "+8",
+            "active": 36,
+            "critical": null,
+            "recovered": 1,
+            "1M_pop": "14",
+            "total": 39
+          },
+          "deaths": {
+            "new": null,
+            "1M_pop": null,
+            "total": 2
+          },
+          "tests": {
+            "1M_pop": null,
+            "total": null
+          },
+          "day": "2020-03-25",
+          "time": "2020-03-25T06:00:07+00:00"
+        },
+        {
+          "continent": null,
+          "country": "Guam",
+          "population": null,
+          "cases": {
+            "new": "+3",
+            "active": 31,
+            "critical": null,
+            "recovered": null,
+            "1M_pop": "190",
+            "total": 32
+          },
+          "deaths": {
+            "new": null,
+            "1M_pop": null,
+            "total": 1
+          },
+          "tests": {
+            "1M_pop": null,
+            "total": null
+          },
+          "day": "2020-03-25",
+          "time": "2020-03-25T06:00:07+00:00"
+        }
+      ]
+}

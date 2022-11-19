@@ -1,0 +1,94 @@
+<%- include('./layouts/header') -%>
+<main class="col-md-9 ms-sm-auto col-lg-10 px-md-4">
+  <div
+    class="d-flex justify-content-between flex-wrap flex-md-nowrap align-items-center pt-3 pb-2 mb-3 border-bottom"
+  >
+    <h1 class="h2">Covid 19 Statistics</h1>
+    <!-- <div class="btn-toolbar mb-2 mb-md-0">
+      <div class="btn-group me-2">
+        <button type="button" class="btn btn-sm btn-outline-secondary">
+          Share
+        </button>
+        <button type="button" class="btn btn-sm btn-outline-secondary">
+          Export
+        </button>
+      </div>
+      <button
+        type="button"
+        class="btn btn-sm btn-outline-secondary dropdown-toggle"
+      >
+        <span data-feather="calendar" class="align-text-bottom"></span>
+        This week
+      </button>
+    </div> -->
+  </div>
+
+  <!-- <h2>Section title</h2> -->
+  <div class="table-responsive">
+    <table id="statistics" class="display" style="width: 100%">
+      <thead>
+        <tr>
+          <th></th>
+          <th>Continent</th>
+          <th>Country</th>
+          <th>Population</th>
+          <th>Active Cases</th>
+          <th>Total Cases</th>
+          <th>Total Deaths</th>
+          <th>Time</th>
+        </tr>
+      </thead>
+      <tbody></tbody>
+      <tfoot>
+        <tr>
+          <th></th>
+          <th>Continent</th>
+          <th>Country</th>
+          <th>Population</th>
+          <th>Active Cases</th>
+          <th>Total Cases</th>
+          <th>Total Deaths</th>
+          <th>Time</th>
+        </tr>
+      </tfoot>
+    </table>
+  </div>
+</main>
+
+<%- include('./layouts/footer') -%>
+
+<script defer>
+  $(document).ready(function () {
+    const t = $("#statistics").DataTable({
+      ajax: `/covid/stats`,
+      columnDefs: [
+        {
+          searchable: false,
+          orderable: false,
+          targets: 0,
+        },
+      ],
+      order: [[1, "asc"]],
+      columns: [
+        { data: "continent" },
+        { data: "continent"},
+        { data: "country" },
+        { data: "population" },
+        { data: "cases.active" },
+        { data: "cases.total" },
+        { data: "deaths.total" },
+        { data: "time" },
+      ],
+    });
+
+    t.on("order.dt search.dt", function () {
+      let i = 1;
+      t.cells(null, 0, { search: "applied", order: "applied" }).every(function (
+        cell
+      ) {
+        this.data(i++);
+      });
+    }).draw();
+    
+  });
+</script>
