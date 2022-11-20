@@ -23,7 +23,7 @@ module.exports = {
             const response = await axios.request(options)
             res.json({ 'data': response.data.response })
         } catch (error) {
-            res.status(500).json({ 'message': 'Something went wrong, unable to get data from Rapid API' })
+            res.status(500).json({ 'message': JSON.stringify(error) })
         }
     },
 
@@ -62,7 +62,7 @@ module.exports = {
 
             res.json({ 'labels': hours, 'cases': cases, 'deaths': deaths, 'tests': tests })
         } catch (error) {
-            res.status(500).json({ 'message': 'Something went wrong, unable to get data from Rapid API' })
+            res.status(500).json({ 'message': JSON.stringify(error)  })
         }
     },
 
@@ -75,7 +75,7 @@ module.exports = {
             const response = await axios.request(options)
             res.render('../views/graph.ejs', { 'countries': response.data.response })
         } catch (error) {
-            res.status(500).json({ 'message': 'Something went wrong, unable to get data from Rapid API' })
+            res.status(500).json({ 'message': JSON.stringify(error)  })
         }
     }
 }

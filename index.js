@@ -16,6 +16,10 @@ app.set("view options", { layout: false })
 
 app.use('/covid', covidRoutes);
 
+app.get("/", function (req, res) {
+  res.render('../views/table.ejs')
+});
+
 app.listen(port, function () {
-  console.log(`Example app listening on port ${port}!`);
+  console.log(`app listening on port ${port}!`);
 });
