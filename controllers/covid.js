@@ -73,6 +73,7 @@ module.exports = {
                 url: 'https://covid-193.p.rapidapi.com/countries',
             }
             const response = await axios.request(options)
+            console.log( { 'countries': response.data.response })
             res.render('../views/graph.ejs', { 'countries': response.data.response })
         } catch (error) {
             res.status(500).json({ 'message': JSON.stringify(error)  })
