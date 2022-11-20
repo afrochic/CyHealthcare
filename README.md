@@ -5,3 +5,5 @@ A node application that summarizes data from [Rapid API](https://rapidapi.com/ap
 + Run the command `npm install`
 + Then run `npm run devStart`
 + Your app is now accessible on localhost:3000/ 
+
+[link to app](https://cyhealthcare.herokuapp.com/covid/graph) 
